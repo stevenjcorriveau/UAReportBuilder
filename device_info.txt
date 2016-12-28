@@ -1,0 +1,1304 @@
+GT-I8160	Samsung	Galaxy Ace 2	Smartphone
+001DL	Dell	Streak	Smartphone
+001HT	HTC	Desire	Smartphone
+009Z	ZTE	Star	Smartphone
+02_jbla668	Foxnovo	S7189	Smartphone
+0PAJ5	HTC	One M8	Smartphone
+0PCV1	HTC	Desire	Smartphone
+101P	Panasonic	Lumix	Smartphone
+306SH	Sharp	Aquos Crystal	Smartphone
+5860e	Coolpad	Quattro 4G	Smartphone
+7040N	Alcatel	OneTouch	Smartphone
+7040T	Alcatel	OneTouch	Smartphone
+710C	HTC	Desire	Smartphone
+7D8	Tivax	MiTraveler	Tablet
+801EM	Coolpad	Quattro 2	Tablet
+831C	HTC	One	Smartphone
+975TPCII	Iview	CyberPad	Tablet
+A0001	OnePlus	One	Smartphone
+A1	Dragon	Touch	Tablet
+A1_07	Lenovo	IdeaTab	Tablet
+A100	Acer	Iconia	Tablet
+A01SH	Sharp	Galapagos	Tablet
+A1023	Azpen	Innovation	Tablet
+A1040	Azpen	Azpa	Tablet
+A111	Micromax	Canvas Doodle	Smartphone
+A1-810	Acer	Iconia	Tablet
+A1-830	Acer	Iconia	Tablet
+A1-840	Acer	Iconia	Tablet
+A1X	Dragon	Touch	Tablet
+A1X PLUS	Dragon	Touch	Tablet
+A20	Celkon	A20	Smartphone
+A200	Acer	Iconia	Tablet
+A210	Acer	Iconia	Tablet
+A3-A10	Acer	Iconia	Tablet
+A3-A20	Acer	Iconia	Tablet
+A500	Acer	Iconia	Tablet
+A510	Acer	Iconia	Tablet
+a5mid	Infotm	A5mid	Tablet
+A7_PTAB735	Polaroid	A7	Tablet
+A700	Acer	Iconia	Tablet
+A70H	Teclast	A70H	Tablet
+A727	Azpen	Innovation	Tablet
+A912	Asto	Queo	Tablet
+A93	Micromax	Canvas Elanza	Smartphone
+ADR3010	Alcatel	Authority	Smartphone
+ADR6200	HTC	Rezound	Smartphone
+ADR6300	HTC	Droid Incredible	Smartphone
+ADR6330VW	HTC	Rhyme	Smartphone
+ADR6350	HTC	Droid Incredible 2	Smartphone
+ADR6400L 4G	HTC	Thunderbolt	Smartphone
+ADR6410LVW	HTC	Droid Incredible	Smartphone
+ADR6410LVW 4G	HTC	Droid Incredible	Smartphone
+ADR6425LVW	HTC	Rezound	Smartphone
+ADR6425LVW 4G	HTC	Rezound	Smartphone
+ADR8995 4G	HTC	Droid	Smartphone
+ADR910L 4G	Pantech	Marauder	Smartphone
+ADR930L 4G	Pantech	Perception	Smartphone
+ADVANCE 4.5	Blu	Advance 4.5	Smartphone
+AFTB	Amazon	Fire	TV
+ALCATEL 4015T	Alcatel	C1	Smartphone
+ALCATEL A564C	Alcatel	OneTouch	Smartphone
+Alcatel A851L	Alcatel	OneTouch	Smartphone
+ALCATEL A995L	Alcatel	OneTouch	Smartphone
+ALCATEL ONE TOUCH 4037N	Alcatel	OneTouch Evolve 2	Smartphone
+ALCATEL ONE TOUCH 4037T	Alcatel	OneTouch Evolve 2	Smartphone
+ALCATEL ONE TOUCH 5020N	Alcatel	OneTouch	Smartphone
+ALCATEL ONE TOUCH 5020T	Alcatel	OneTouch	Smartphone
+ALCATEL ONE TOUCH 7047A	Alcatel	OneTouch	Smartphone
+ALCATEL ONE TOUCH Fierce	Alcatel	OneTouch	Smartphone
+ALCATEL ONETOUCH P310A	Alcatel	OneTouch	Tablet
+Allwinner-Tablet	Unknown	Unknown	Tablet
+Ally	LG	Ally	Smartphone
+Amaze 4G	HTC	Amaze	Smartphone
+Amaze_4G	HTC	Amaze	Smartphone
+Amazon Kindle Fire	Kindle	Kindle Fire	Tablet
+AN10BG3	Archos	Arnova	Tablet
+AN7DG3C	Archos	Tabeo	Tablet
+AOSP on HammerHead	Unknown	Unknown	Unknown
+AppleTV5	Apple	TV 4th Gen	TV
+ASUS PadFone X	Asus	PadFone	Smartphone
+ASUS PadFone X mini	Asus	PadFone	Smartphone
+ASUS Transformer Pad TF300T	Asus	Transformer Pad	Tablet
+ASUS Transformer Pad TF700T	Asus	Transformer Pad	Tablet
+ASUS_T00F	Asus	ZenPhone	Smartphone
+ASUS_T00J	Asus	ZenPhone	Smartphone
+ASUS_T00P	Asus	ZenPhone	Smartphone
+AT100	Toshiba	Excite	Tablet
+AT10-A	Toshiba	Excite	Tablet
+AT200	Toshiba	Excite	Tablet
+AT300	Toshiba	Excite	Tablet
+AT300SE	Toshiba	Excite	Tablet
+AT7-B	Toshiba	Excite	Tablet
+AT7-C	Toshiba	Excite	Tablet
+AX650	Tigo	AX650	Smartphone
+bingbot	Microsoft	Bingbot	Bot
+B1-710	Acer	Iconia	Tablet
+b1-720	Acer	Iconia	Tablet
+B1-730	Acer	Iconia One	Tablet
+B1-730HD	Acer	Iconia One	Tablet
+BLU DASH 3.5	Blu	Dash	Smartphone
+BLU DASH 5.0	Blu	Dash	Smartphone
+BLU DASH JR	Blu	Dash	Smartphone
+BLU DASH JR 4.0 K	Blu	Dash	Smartphone
+BLU DASH MUSIC 4.0	Blu	Dash	Smartphone
+BLU DASH MUSIC II	Blu	Dash	Smartphone
+BLU DASH5.5	Blu	Dash	Smartphone
+BLU LIFE 8	Blu	Life	Smartphone
+BLU Life One	Blu	Life	Smartphone
+BLU LIFE ONE M	Blu	Life	Smartphone
+BLU LIFE PLAY S	Blu	Life	Smartphone
+BLU LIFE PLAY MINI	Blu	Life	Smartphone
+BLU Life View	Blu	Life	Smartphone
+BLU STUDIO 5.0	Blu	Studio	Smartphone
+BLU STUDIO 5.0 C	Blu	Studio	Smartphone
+BLU STUDIO 5.0 C HD	Blu	Studio	Smartphone
+BLU STUDIO 5.0 Ce	Blu	Studio	Smartphone
+BLU STUDIO 5.0 II	Blu	Studio	Smartphone
+BLU Studio 5.0 S II	Blu	Studio	Smartphone
+BLU STUDIO 5.5 S	Blu	Studio	Smartphone
+BLU STUDIO 7.0	Blu	Studio	Smartphone
+BLU STUDIO C MINI	Blu	Studio	Smartphone
+BN Nook HD	Nook	HD	Tablet
+BN NookHD+	Nook	HD	Tablet
+BNTV400	Nook	BNTV400	Tablet
+BNTV600	Nook	BNTV600	Tablet
+Brilliant Pad TPC7026C	Android	Brilliant Pad	Tablet
+C100	Unknown	C100	Smartphone
+C14100	Kurio	Tab	Tablet
+C2104	Sony	Xperia	Smartphone
+C2105	Sony	Xperia	Smartphone
+C2305	Sony	Xperia	Smartphone
+C5120	Kyocera	Milano	Smartphone
+C5121	Kyocera	Milano	Smartphone
+C5155	Kyocera	Rise	Smartphone
+C5170	Kyocera	Hydro	Smartphone
+C5215	Kyocera	Hydro	Smartphone
+C525c	HTC	One	Smartphone
+C5302	Sony	Xperia SP	Smartphone
+C5303	Sony	Xperia	Smartphone
+C6522N	Kyocera	Hydro	Smartphone
+C6530	Kyocera	Hydro Life	Smartphone
+C6530N	Kyocera	Hydro Life	Smartphone
+C6602	Sony	Xperia	Smartphone
+C6606	Sony	Xperia	Smartphone
+C6725	Kyocera	Hydro Vibe	Smartphone
+C6730	Kyocera	Hydro Icon	Smartphone
+C6750	Kyocera	Hydro Elite	Smartphone
+C6802	Sony	Xperia	Smartphone
+C6806	Sony	Xperia	Smartphone
+C6806_GPe	Sony	Z Ultra	Smartphone
+C6833	Sony	Xperia	Smartphone
+C6903	Sony	Xperia	Smartphone
+C6916	Sony	Xperia	Smartphone
+C754	Jazz	Ultratab	Tablet
+C771	Casio	Gzone Commando	Smartphone
+C811 4G	Casio	Gzone Commando	Smartphone
+C855	Digitac	Ultratab	Tablet
+C954	Jazz	Ultratab	Tablet
+Camelio Family tablet	Camelio	Family	Tablet
+Chaser	PCD	Chaser	Smartphone
+Cintiq Companion Hybrid 13HD	Wacom	Cintiq Companion	Tablet
+CK07T	ClickN	Kids	Tablet
+CLP285	Craig	Ultrabook	PC
+cm_tenderloin	HP	TouchPad	Tablet
+CMP756	Craig	CMP756	Tablet
+Comet	Unknown	Comet	Smartphone
+Coolpad Flo	Coolpad	Flo	Smartphone
+CrKey	Chromecast	Chromecast	TV
+CUBOT X6	Cubot	X6	Smartphone
+CW-V17HD	Chuwi	V17HD	Tablet
+D110SJ	Porto	D110SJ	Tablet
+d2lte	Samsung	Galaxy S LTE	Smartphone
+D2-927G	Digital2	D2	Tablet
+D5316	Sony	Xperia T2	Smartphone
+D5503	Sony	Xperia	Smartphone
+D5803	Sony	Xperia Z3	Smartphone
+D6503	Sony	Xperia T2	Smartphone
+D6603	Sony	Xperia Z3	Smartphone
+D6616	Sony	Xperia Z3	Smartphone
+D6633	Sony	Xperia Z3	Smartphone
+D6653	Sony	Xperia Z3	Smartphone
+D6708	Sony	Xperia Z3v 4G LTE	Smartphone
+DA220HQL	Acer	DA220HQL	PC
+Dash 5.5	Blu	Dash	Smartphone
+DASH JR K	Blu	Dash Jr K	Smartphone
+Desire HD	HTC	Desire	Smartphone
+DG800	Doogee	Valencia	Smartphone
+Digital2 Platinum	Digital2	D2	Tablet
+Digital2-Deluxe	Digital2	D2	Tablet
+DL1010Q	DigiLand	DL1010Q	Tablet
+DL700D	DigiLand	DL700D	Tablet
+DL701Q	DigiLand	DL701Q	Tablet
+DL900	Digicel	DL900	Smartphone
+DMTAB-IN08A	Fuhu	Nabi DreamTab	Tablet
+DMTAB-NV08B	Fuhu	Nabi DreamTab	Tablet
+DP7856K	Double Power	DP7856K	Tablet
+DPA23D	Double Power	DPA23D	Tablet
+DPM1081	Double Power	DPM1081	Tablet
+Dragon Touch-A93	Dragon	Touch	Tablet
+Dragon Touch-Y88X	Dragon	Touch	Tablet
+Droid	Motorola	Droid	Smartphone
+DROID BIONIC	Motorola	Droid	Smartphone
+DROID BIONIC 4G	Motorola	Droid	Smartphone
+DROID MAXX	Motorola	Droid	Smartphone
+DROID Pro	Motorola	Droid	Smartphone
+DROID RAZR	Motorola	Droid	Smartphone
+DROID RAZR HD	Motorola	Droid	Smartphone
+DROID X2	Motorola	Droid	Smartphone
+DROID2	Motorola	Droid	Smartphone
+DROID2 GLOBAL	Motorola	Droid 2 Global	Smartphone
+DROID3	Motorola	Droid	Smartphone
+DROID4	Motorola	Droid	Smartphone
+DROIDX	Motorola	Droid	Smartphone
+DX752	Kocaso	iRola	Tablet
+e1809c_v75_jbl_253_6628	Alps	e1809c	Smartphone
+E2281	Hisense	Sero 8	Tablet
+E270BSA	Hisense	Sero 7	Tablet
+E6653	Sony	Xperia Z5	Smartphone
+E6782	Kyocera	Brigadier	Smartphone
+EGQ307	Ematic	EGQ307	Tablet
+EGQ337	Ematic	EGQ337	Tablet
+EK-GC120	Samsung	Galaxy Camera	Mobile
+Elephone P3000S	Elephone	P3000S	Smartphone
+Elite10Q	Visual Land	Elite	Tablet
+Elite7Q	Visual Land	Elite	Tablet
+ELITE8Q	Visual Land	Elite	Tablet
+Elite8QS	Visual Land	Elite	Tablet
+Elite9Q	Visual Land	Elite	Tablet
+EM63	Azend	Envision	Tablet
+EM63EVO	Azend	Envision EVO	Tablet
+Ematic EGD170	Ematic	EGD170	Tablet
+ETH103	Ematic	ETH103	Tablet
+Event	Unknown	Unknown	Unknown
+EveryPad2	Yamada	EveryPad 2	Tablet
+EVO	HTC	Evo	Smartphone
+F1	Unknown	Unknown	Unknown
+F-10XHD	Linsay	Tablet PC	Tablet
+F786D	Unknown	Unknown	Tablet
+Fire HD	Kindle	Fire HD	Tablet
+Fire HDX	Kindle	Fire HDX	Tablet
+Fly IQ4409 Quad	Fly	ERA Life 4	Smartphone
+Full AOSP on Rk29sdk	Unknown	Unknown	Tablet
+G2	Unknown	Unknown	Unknown
+G6	Unknown	Unknown	Unknown
+Galaxy Nexus	Samsung	Galaxy Nexus	Smartphone
+Gigaset QV830	Gigaset	QV830	Tablet
+Googlebot	Google	Googlebot	Bot
+GRAVITY 5.5	Maxwest	Gravity	Smartphone
+Gravity 6	Maxwest	Gravity	Smartphone
+GT9000	Samsung	Galaxy S	Smartphone
+GT90H	Unknown	GT90H	Tablet
+GT91H	Unknown	GT91H	Tablet
+GT-A9500	Android	GT-A9500	Smartphone
+G-Tab Nero CX2	Matricom	Nero	Tablet
+GT-B5330L	Samsung	Galaxy Chat	Smartphone
+GT-I8190	Samsung	Galaxy S3 Mini	Smartphone
+GT-I8190N	Samsung	Galaxy S3 Mini	Smartphone
+GT-I8200	Samsung	Galaxy S3 Mini	Smartphone
+GT-I8200L	Samsung	Galaxy S3 Mini	Smartphone
+GT-I9060	Samsung	Galaxy Grand Neo	Smartphone
+GT-I9060L	Samsung	Galaxy Grand Neo	Smartphone
+GT-I9082	Samsung	Galaxy Grand Duos	Smartphone
+GT-I9082L	Samsung	Galaxy Grand Duos	Smartphone
+GT-I9100	Samsung	Galaxy S2	Smartphone
+GT-I9152	Samsung	Galaxy Mega	Smartphone
+GT-I9152P	Samsung	Galaxy Mega	Smartphone
+GT-I9192	Samsung	Galaxy S4	Smartphone
+GT-I9195	Samsung	Galaxy S4 Mini	Smartphone
+GT-I9295	Samsung	Galaxy S4 Active	Smartphone
+GT-I9300	Samsung	Galaxy S3	Smartphone
+GT-I9300-JB2	Samsung	Galaxy S3	Smartphone
+GT-I9301I	Samsung	Galaxy S3 Neo	Smartphone
+GT-I9305	Samsung	Galaxy S3 LTE	Smartphone
+GT-I9500	Samsung	Galaxy S4	Smartphone
+GT-I9505	Samsung	Galaxy S4	Smartphone
+GT-I9505G	Samsung	Galaxy S4	Smartphone
+GT-I9506	Samsung	Galaxy S4 LTE-A	Smartphone
+GT-I9515	Samsung	Galaxy S4 Value Edition	Smartphone
+GT-I9600	Samsung	Galaxy S5	Smartphone
+GT-N5100	Samsung	Galaxy Note	Tablet
+GT-N5110	Samsung	Galaxy Tab	Tablet
+GT-N7000	Samsung	Galaxy Note	Smartphone
+GT-N7100	Samsung	Galaxy Note 2	Smartphone
+GT-N7102	Samsung	Galaxy Note 2 Duos	Smartphone
+GT-N7105	Samsung	Galaxy Note 2 LTE	Smartphone
+GT-N8013	Samsung	Galaxy Tab	Tablet
+GT-P1000	Samsung	Galaxy Tab	Tablet
+GT-P1010	Samsung	Galaxy Tab	Tablet
+GT-P3100	Samsung	Galaxy Tab 2	Tablet
+GT-P3110	Samsung	Galaxy Tab 2	Tablet
+GT-P3113	Samsung	Galaxy Tab 2	Tablet
+GT-P5100	Samsung	Galaxy Tab 2	Tablet
+GT-P5110	Samsung	Galaxy Tab 2	Tablet
+GT-P5113	Samsung	Galaxy Tab 2	Tablet
+GT-P5200	Samsung	Galaxy Tab 3	Tablet
+GT-P5210	Samsung	Galaxy Tab 3	Tablet
+GT-P6210	Samsung	Galaxy Tab	Tablet
+GT-P7310	Samsung	Galaxy Tab	Tablet
+GT-P7510	Samsung	Galaxy Tab	Tablet
+GT-S5830D-parrot	Samsung	Galaxy Ace	Smartphone
+GT-S5830i	Samsung	Galaxy Ace	Smartphone
+GT-S5830M	Samsung	Galaxy Ace	Smartphone
+GT-S6012B	Samsung	Galaxy Music Duos	Smartphone
+GT-S6102B	Samsung	Galaxy Y Duos	Smartphone
+GT-S6802	Samsung	Galaxy Ace Duos	Smartphone
+GT-S7262	Samsung	Galaxy Star Pro	Smartphone
+GT-S7500T	Samsung	Galaxy Ace Plus	Smartphone
+GT-S7562	Samsung	Galaxy S Duos	Smartphone
+GT-S7562L	Samsung	Galaxy S Duos	Smartphone
+GT-S7582	Samsung	Galaxy S Duos 2	Smartphone
+H866C	Huawei	Ascend	Smartphone
+HERBALIFE	Unknown	Unknown	Unknown
+HG-9041	Haier	HG-9041	Tablet
+HL-PC1388	Unknown	Netbook	PC
+HP 10	HP	10	Tablet
+HP 10 Plus	HP	10 Plus	Tablet
+HP 7	HP	7	Tablet
+HP 7 G2	HP	G2	Tablet
+HP 7 Plus	HP	7 G2	Tablet
+HP 8 G2	HP	G2	Tablet
+HP Slate 10 HD	HP	Slate 10	Tablet
+HP Slate 7	HP	Slate	Tablet
+HP Slate 7	HP	Slate 7	Tablet
+HP Slate 7 Beats Special Edition	HP	Slate 7	Tablet
+HP Slate 7 HD	HP	Slate 7	Tablet
+HP Slate 7 Plus	HP	Slate 7	Tablet
+HP Slate7 Extreme	HP	Slate 7 Extreme	Tablet
+HP SlateBook 10 x2 PC	HP	SlateBook 10	PC
+HP SlateBook 14 PC	HP	SlateBook 14	PC
+HS-10DTB12-16GB	Hipstreet	Phoenix	Tablet
+HT6	Ippo	HT6	Tablet
+HTC Desire	HTC	Desire	Smartphone
+HTC Desire 510	HTC	Desire	Smartphone
+HTC Desire 610	HTC	Desire	Smartphone
+HTC_Desire_610	HTC	Desire	Smartphone
+HTC Desire 816 dual sim	HTC	Desire	Smartphone
+HTC Desire Eye	HTC	Desire	Smartphone
+HTC first	HTC	First	Smartphone
+HTC Glacier	HTC	Glacier	Smartphone
+HTC One	HTC	One	Smartphone
+HTC One mini	HTC	One Mini	Smartphone
+HTC One S	HTC	One S	Smartphone
+HTC One V	HTC	One V	Smartphone
+HTC One VX	HTC	One VX	Smartphone
+HTC One X	HTC	One X	Smartphone
+HTC One X+	HTC	One X	Smartphone
+HTC One_M8	HTC	One M8	Smartphone
+HTC One M9	HTC	One M9	Smartphone
+HTC PH39100	HTC	Vivid	Smartphone
+HTC Sensation 4G	HTC	Sensation	Smartphone
+HTC Sensation XE with Beats Audio Z715e	HTC	Sensation	Smartphone
+HTC VLE_U	HTC	One S	Smartphone
+HTC Wildfire S	HTC	Wildfire S	Smartphone
+HTC_0P6B130	HTC	One M8	Smartphone
+HTC_0P9O110/1.19.502.4	HTC	Desire	Smartphone
+HTC_0P9O110/1.30.502.6	HTC	Desire	Smartphone
+HTC_0P9O110/1.50.502.7	HTC	Desire	Smartphone
+HTC_0P9O110/1.50.502.8	HTC	Desire	Smartphone
+HTC_0P9O110/1.51.502.9	HTC	Desire	Smartphone
+HTC_0P9O110/1.51.502.10	HTC	Desire	Smartphone
+HTC_0P9O110/1.53.502.11	HTC	Desire	Smartphone
+HTC_0P9O110/1.53.502.12	HTC	Desire	Smartphone
+HTC_0PCV220/1.10.506.1	HTC	One X	Smartphone
+HTC_0PCV220/1.11.506.1	HTC	One X	Smartphone
+HTC_0PFH1/1.15.502.5	HTC	Unknown	Smartphone
+HTC_0PFH1/1.15.502.7	HTC	Unknown	Smartphone
+HTC_0PFH1/1.15.502.8	HTC	Unknown	Smartphone
+HTC_801e	HTC	One	Smartphone
+HTC_C525c	HTC	Evo	Smartphone
+HTC_C715c	HTC	One	Smartphone
+HTC_Desire_601	HTC	Desire	Smartphone
+HTC_Desire_601-parrot	HTC	Desire	Smartphone
+HTC_M8x	HTC	M8 Eye	Smartphone
+HTC_One	HTC	One	Smartphone
+HTC_One_M8	HTC	One M8	Smartphone
+HTC_One_M8/1.12.502.18	HTC	One M8	Smartphone
+HTC_One_M8/2.23.502.3	HTC	One M8	Smartphone
+HTC_One_M8/1.58.502.1	HTC	One M8	Smartphone
+HTC_One_M8/3.42.502.1	HTC	One M8	Smartphone
+HTC_M910x	HTC	Desire Eye	Smartphone
+HTC_One_S	HTC	One S	Smartphone
+HTC_One_X	HTC	One X	Smartphone
+HTC_PH39100/1.63.502.4	HTC	Vivid	Smartphone
+HTC_PH39100/3.26.502.56	HTC	Vivid	Smartphone
+HTC_PN071	HTC	Unknown	Smartphone
+HTC_PN07120/1.26.502.10	HTC	One M7	Smartphone
+HTC_PN07120/1.26.502.12	HTC	One M7	Smartphone
+HTC_PN07120/1.26.502.15	HTC	One M7	Smartphone
+HTC_PN07120/5.12.502.2	HTC	One M7	Smartphone
+HTC_PN07120/3.17.502.3	HTC	One M7	Smartphone
+HTC_PN07120/4.18.502.7	HTC	One M7	Smartphone
+HTC_PO58220/4.13.502.3	HTC	One M7	Smartphone
+HTC_PO58220/1.24.502.3	HTC	One Mini	Smartphone
+HTC_PO58220/1.32.502.3	HTC	One Mini	Smartphone
+HTC_PO58220/3.10.502.3	HTC	One Mini	Smartphone
+HTC_Rhyme_S510b	HTC	Rhyme	Smartphone
+HTC_T120C	HTC	One V	Smartphone
+HTC_Wildfire_S	HTC	Wildfire S	Smartphone
+HTC_X515C	HTC	Evo 3D	Smartphone
+HTC0P3P7	HTC	One Max	Smartphone
+HTC0P4E1	HTC	Desire	Smartphone
+HTC331ZLVW	HTC	Desire	Smartphone
+HTC6435LVW	HTC	Droid DNA	Smartphone
+HTC6435LVW 4G	HTC	Droid DNA	Smartphone
+HTC6500LVW	HTC	One M7	Smartphone
+HTC6500LVW 4G	HTC	One M7	Smartphone
+HTC6515LVW	HTC	One Remix	Smartphone
+HTC6525LVW	HTC	One M8	Smartphone
+HTC6600LVW	HTC	One Max	Smartphone
+HTC6600LVW 4G	HTC	One Max	Smartphone
+HTC-A9192/1.0	HTC	Inspire 4G	Smartphone
+HTCDESIRE	HTC	Desire	Smartphone
+HTCEVOV4G	HTC	Evo	Smartphone
+HTCONE	HTC	One	Smartphone
+HUAWEI H868C	Huawei	Glory	Smartphone
+HUAWEI H871G	Huawei	Magna	Smartphone
+HUAWEI H881C	Huawei	Ascend	Smartphone
+Huawei U8800-51	Huawei	Ideos	Smartphone
+Huawei Y301A1	Huawei	Valiant	Smartphone
+Huawei Y301A2	Huawei	Vitria	Smartphone
+HUAWEI Y336-A1	Huawei	Ascend	Smartphone
+HUAWEI Y536A1	Huawei	Fusion	Smartphone
+HUAWEI-M835	Huawei	Ideos	Smartphone
+HUAWEI-M931	Huawei	Premia	Smartphone
+Huawei-U8665	Huawei	Fusion	Smartphone
+Hudl HT7S3	Tesco	Hudl	Tablet
+I10A-LE	Leader	Impression	Tablet
+iB755C	Unknown	Unknown	Tablet
+ICRAIG_CLP_288	Craig	Slimbook	PC
+ICRAIG_CLP_289	Craig	Slimbook	PC
+ICRAIG_CMP_770	Craig	CMP770	Tablet
+IdeaTab A2107A-F	Lenovo	IdeaTab	Tablet
+IdeaTab S6000-F	Lenovo	IdeaTab	Tablet
+IdeaTabA1000-F	Lenovo	IdeaTab	Tablet
+IdeaTabA1000L-F	Lenovo	IdeaTab	Tablet
+IdeaTabA2109A	Lenovo	IdeaTab	Tablet
+IM-A760S	Pantech	Sky Vega Racer	Smartphone
+imx53_smd	Freescale	Sabre	Tablet
+INFINITY-10	Unknown	Infinity	Tablet
+Infinity-10.1-v2	Unknown	Infinity	Tablet
+IP6	Unknown	Unknown	Smartphone
+IRULU-AL101	Irulu	AL101	Tablet
+IRULU-AX106	Irulu	AX106	Tablet
+JLab PRO-7	Mach Speed	JLab Pro	Tablet
+K007	Asus	MeMO Pad	Tablet
+K00C	Asus	Transformer Pad	Tablet
+K00F	Asus	MeMO Pad	Tablet
+K00L	Asus	MeMO Pad	Tablet
+K010	Asus	Transformer Pad	Tablet
+K011	Asus	MeMO Pad	Tablet
+K013	Asus	MeMO Pad	Tablet
+K017	Asus	MeMO Pad	Tablet
+K01A	Asus	MeMO Pad	Tablet
+K1	Unknown	Unknown	Unknown
+K7206	Hot Star	K7206	Smartphone
+KFAPWA	Kindle	Kindle Fire HDX	Tablet
+KFAPWI	Kindle	Kindle Fire HDX	Tablet
+KFARWI	Kindle	Fire HD	Tablet
+KFASWI	Kindle	Fire HD	Tablet
+KFJWA	Kindle	Kindle Fire HD	Tablet
+KFJWI	Kindle	Kindle Fire HD	Tablet
+KFOT	Kindle	Kindle Fire	Tablet
+KFSAWA	Kindle	Fire HDX	Tablet
+KFSAWI	Kindle	Fire HDX	Tablet
+KFSOWI	Kindle	Kindle Fire HD	Tablet
+KFTHWA	Kindle	Kindle Fire HDX	Tablet
+KFTHWI	Kindle	Kindle Fire HDX	Tablet
+KFTT	Kindle	Kindle Fire HD	Tablet
+Kindle Fire	Kindle	Kindle Fire	Tablet
+Kindle Fire HD	Kindle	Kindle Fire HD	Tablet
+Kurio10S	Kurio	Family	Tablet
+Kurio7S	Kurio	7S	Tablet
+KYOCERA-E6560	Kyocera	DuraForce	Smartphone
+L-01F	LG	G2	Smartphone
+Le Pan S	Matsunichi	Le Pan S	Tablet
+Le Pan TC1010	Matsunichi	Le Pan	Tablet
+Le Pan TC1020	Matsunichi	Le Pan	Tablet
+Le Pan TC802A	Matsunichi	Le Pan	Tablet
+Lenovo A369i	Lenovo	A369i	Smartphone
+Lenovo A5500-F	Lenovo	IdeaTab	Tablet
+Lenovo A7600-F	Lenovo	IdeaTab	Tablet
+Lenovo B6000-F	Lenovo	Yoga	Tablet
+Lenovo B8000-F	Lenovo	IdeaPad	Tablet
+Lenovo B8080-F	Lenovo	Yoga	Tablet
+Lenovo S960	Lenovo	Vibe	Smartphone
+Lenovo TAB S8-50F	Lenovo	S8	Tablet
+LePanII	Matsunichi	Le Pan	Tablet
+LG Google TV TV	LG	Google TV	Other
+LG-C729	LG	DoublePlay	Smartphone
+LG-C800	LG	myTouch	Smartphone
+LG-D321	LG	Optimus	Smartphone
+LG-D321/D32110c	LG	Optimus	Smartphone
+LG-D410	LG	Dual	Smartphone
+LG-D415	LG	Optimus	Smartphone
+LG-D500	LG	Optimus	Smartphone
+LG-D520	LG	Optimus	Smartphone
+LG-D631	LG	Vista	Smartphone
+LG-D631/D63110b	LG	Vista	Smartphone
+LG-D686	LG	Dual	Smartphone
+LG-D725	LG	Vigor	Smartphone
+LG-D725/D72510d	LG	Vigor	Smartphone
+LG-D800	LG	G2	Smartphone
+LG-D800/D80010q	LG	G2	Smartphone
+LG-D800/D80020c	LG	G2	Smartphone
+LG-D800/D80020k	LG	G2	Smartphone
+LG-D800/D80020u	LG	G2	Smartphone
+LG-D800/D80020y	LG	G2	Smartphone
+LG-D801	LG	G2	Smartphone
+LG-D802	LG	G2	Smartphone
+LG-D850	LG	G3	Smartphone
+LG-D850/D85010d	LG	G3	Smartphone
+LG-D850/D85010f	LG	G3	Smartphone
+LG-D850/D85020f	LG	G3	Smartphone
+LG-D851	LG	G3	Smartphone
+LG-D855	LG	G3	Smartphone
+LG-D950	LG	G Flex	Smartphone
+LG-D950/D95020b	LG	G Flex	Smartphone
+LG-D950/D95020f	LG	G Flex	Smartphone
+LG-D959	LG	G Flex	Smartphone
+LG-E460	LG	Optimus	Smartphone
+LG-E739	LG	myTouch	Smartphone
+LG-E970	LG	Optimus	Smartphone
+LG-E970/E97011c	LG	Optimus	Smartphone
+LG-E970/E97020j	LG	Optimus	Smartphone
+LG-E980	LG	Optimus	Smartphone
+LG-E980/E98010p	LG	Optimus	Smartphone
+LG-E980/E98020g	LG	Optimus	Smartphone
+LG-E980/E98020h	LG	Optimus	Smartphone
+LG-F240K	LG	Optimus	Smartphone
+LG-F240K/20g	LG	Optimus	Smartphone
+LG-F320K	LG	Optimus	Smartphone
+LGL31L	LG	Optimus Access	Smartphone
+LGL31L/V100	LG	Optimus	Smartphone
+LGL34C	LG	Optimus	Smartphone
+LGL34C/V100	LG	Optimus	Smartphone
+LGL35G/V100	LG	Optimus	Smartphone
+LG-L38C	LG	Optimus	Smartphone
+LGL39C	LG	Optimus	Smartphone
+LGL39C/V100	LG	Optimus	Smartphone
+LG-L40G/V100	LG	Extreme	Smartphone
+LGL41C	LG	Ultimate	Smartphone
+LGL41C/V100	LG	Ultimate	Smartphone
+LGL45C	LG	Optimus	Smartphone
+LGL46C	LG	Optimus	Smartphone
+LGL55C	LG	Optimus	Smartphone
+LGL75C	LG	Optimus	Smartphone
+LGL86C	LG	Optimus	Smartphone
+LGL86C/V100	LG	Optimus	Smartphone
+LGL96G	LG	Optimus	Smartphone
+LGLK430	LG	G Pad	Tablet
+LG-LG730	LG	Venice	Smartphone
+LG-LG855	LG	Marquee	Smartphone
+LG-LG870	LG	Optimus	Smartphone
+LGLS620	LG	Realm	Smartphone
+LGLS660	LG	Tribute	Smartphone
+LG-LS696	LG	Elite	Smartphone
+LG-LS720	LG	Optimus	Smartphone
+LGLS740	LG	Volt	Smartphone
+LG-LS840	LG	Viper	Smartphone
+LG-LS855	LG	Marquee	Smartphone
+LG-LS860	LG	Mach	Smartphone
+LGLS885	LG	G3	Smartphone
+LG-LS970	LG	Optimus	Smartphone
+LG-LS980	LG	G2	Smartphone
+LGLS990	LG	G3	Smartphone
+LG-ls990	LG	G3	Smartphone
+LG-LS995	LG	G Flex	Smartphone
+LGMS323	LG	Optimus	Smartphone
+LGMS395	LG	Optimus	Smartphone
+LGMS500	LG	Optimus	Smartphone
+LGMS659	LG	Optimus	Smartphone
+LG-MS695	LG	Optimus	Smartphone
+LGMS769	LG	Optimus	Smartphone
+LG-MS770	LG	Motion	Smartphone
+LG-MS870	LG	Spirit	Smartphone
+LG-MS910	LG	Esteem	Smartphone
+LG-P350	LG	Optimus Me	Smartphone
+LG-P505/V10i	LG	Phoenix	Smartphone
+LG-P505/V11e	LG	Phoenix	Smartphone
+LG-P505/V11h	LG	Phoenix	Smartphone
+LG-P509	LG	Optimus	Smartphone
+LG-P659	LG	Optimus	Smartphone
+LG-P705	LG	Optimus	Smartphone
+LG-P769	LG	Optimus	Smartphone
+LG-P870	LG	Escape	Smartphone
+LG-P870/P87010i	LG	Escape	Smartphone
+LG-P870/P87020d	LG	Escape	Smartphone
+LG-P925/V10e	LG	Thrill	Smartphone
+LG-P930	LG	Nitro	Smartphone
+LG-P930/V10f	LG	Nitro	Smartphone
+LG-P930/V20c	LG	Nitro	Smartphone
+LG-P930/V20f	LG	Nitro	Smartphone
+LG-P999	LG	G2X	Smartphone
+LG-V400	LG	G Pad	Tablet
+LG-V410	LG	G Pad	Tablet
+LG-V410/V41010b	LG	G Pad	Tablet
+LG-V410/V41010d	LG	G Pad	Tablet
+LG-V410/V41020c	LG	G Pad 7.0	Tablet
+LG-V500	LG	G Pad	Tablet
+LG-V510	LG	G Pad	Tablet
+LG-V700	LG	G Pad	Tablet
+LG-V909	LG	Optimus	Tablet
+LG-VM696	LG	Optimus	Smartphone
+LG-VM701	LG	Optimus	Smartphone
+LG-VS410PP	LG	Optimus	Smartphone
+LG-VS450PP	LG	Optimus	Smartphone
+LG-VS700	LG	Enlighten	Smartphone
+LG-VS980	LG	G2	Smartphone
+LG-VS985	LG	G3	Smartphone
+LIFE PLAY	Blu	Life Play	Smartphone
+LIFE PLAY 2	Blu	Life Play	Smartphone
+LIFE PLAY X	Blu	Life Play	Smartphone
+LIFE PRO	Blu	Life Pro	Smartphone
+LIFE PURE	Blu	Life Pure	Smartphone
+LIFE PURE MINI	Blu	Life Pure	Smartphone
+LIFETAB_E723X	Unknown	Unknown	Tablet
+LR-097	Unknown	Unknown	Unknown
+LR102	Ntixo	Contixo	Tablet
+LS670	LG	Optimus	Smartphone
+LT22i	Sony	Xperia	Smartphone
+LT28at	Sony	Xperia	Smartphone
+LT30at	Sony	Xperia	Smartphone
+LT7035-F	Curtis	Klu	Tablet
+Lumia 950	Microsoft	Lumia 950	Smartphone
+M1066	Kocaso	M1066	Tablet
+M2101	Unknown	Unknown	Tablet
+M-270	Maylong	M-270	Tablet
+M4 SS1060	M4tel	SS1060	Smartphone
+M470BSA	Hisense	Sero 7	Tablet
+M7	HTC	One M7	Smartphone
+M752H	Kocaso	M752H	Tablet
+M865C	Huawei	Ascend	Smartphone
+M886	Huawei	Mercury	Smartphone
+M9100	Kocaso	M9100	Tablet
+M9200	Kocaso	M9200	Tablet
+M97	Matsunichi	Le Pan	Tablet
+M975	Double Power	M-975	Tablet
+M976	Unknown	Unknown	Tablet
+MB520	Motorola	Bravo	Smartphone
+MB855	Motorola	Photon	Smartphone
+MB860	Motorola	Atrix	Smartphone
+MB865	Motorola	Atrix	Smartphone
+MB886	Motorola	Atrix	Smartphone
+ME172V	Asus	MeMO Pad	Tablet
+ME173X	Asus	MeMO Pad	Tablet
+ME301T	Asus	MeMO Pad	Tablet
+ME302C	Asus	MeMO Pad	Tablet
+ME302KL	Asus	MeMO Pad	Tablet
+Micromax A120	Micromax	Canvas	Smartphone
+Micromax A27	Micromax	Bolt	Smartphone
+Micromax A47	Micromax	Bolt	Smartphone
+MID	Unknown	Unknown	Unknown
+MID7022	Coby	Kyros	Tablet
+MID7033	Coby	Kyros	Tablet
+MID7034	Coby	Kyros	Tablet
+MID7048	Coby	Kyros	Tablet
+MID7065	Coby	MID7065	Tablet
+MID713	Manta	MID713	Tablet
+MID-756	Unknown	MID-756	Tablet
+MID8042	Coby	Kyros	Tablet
+MID8048	Unknown	Kyros	Tablet
+MID8127	Coby	Kyros	Tablet
+MID9742	Coby	Kyros	Tablet
+NEO-X5-116A	Minix	NEO X5	TV
+MOTWX435KT	Motorola	Triumph	Smartphone
+MOT-XT910	Motorola	RAZR	Smartphone
+msnbot-media	Microsoft	msnbot	Bot
+MT2L03	Huawei	Ascend	Smartphone
+MT7001	Eviant	MT7001	Tablet
+myTouch_4G_Slide	Unknown	myTouch	Smartphone
+myTouch4G	Unknown	myTouch	Smartphone
+MZ601	Motorola	Xoom	Tablet
+MZ604	Motorola	Xoom	Tablet
+MZ609	Motorola	Droid	Tablet
+MZ617	Motorola	Droid	Tablet
+MZ617 4G	Motorola	Droid	Tablet
+N10	Unknown	Unknown	Unknown
+N800	Nokia	N800	Tablet
+N810	Unknown	Unknown	Mobile
+N860	ZTE	Warp	Smartphone
+N861	ZTE	Warp	Smartphone
+N9002	Samsung	Galaxy Note	Smartphone
+N9100	ZTE	Force	Smartphone
+N9130	ZTE	Speed	Smartphone
+N9500	ZTE	Flash	Smartphone
+N9510	ZTE	Warp	Smartphone
+N9515	ZTE	Warp	Smartphone
+N9520	ZTE	Max	Smartphone
+N9810	ZTE	Vital	Smartphone
+NABI2-NV7A	Fuhu	Nabi 2	Tablet
+NABIJR-NV5A	Fuhu	Nabi JR	Tablet
+NABIJR-NV5B	Fuhu	Nabi JR	Tablet
+NB07	Nobis	NB07	Tablet
+NB09	Nobis	NB09	Tablet
+NB1016A	Kocaso	NB1016A	PC
+NB1022	Nobis	NB1022	Tablet
+NB7022S	Nobis	NB7022	Tablet
+NB7850S	Nobis	NB7850 S	Tablet
+NEC-NE-201A1A	NEC	Terrain	Smartphone
+Neo4.5	Blu	Neo4.5	Smartphone
+Next7P12	E-Fun	NextBook	Tablet
+Next7P12-8G	E-Fun	NextBook	Tablet
+Next8P12	E-Fun	NextBook	Tablet
+Next9P	E-Fun	NextBook	Tablet
+Nexus 10	Samsung	Nexus 10	Tablet
+Nexus 4	LG	Nexus 4	Smartphone
+Nexus 5	LG	Nexus 5	Smartphone
+Nexus 6	Motorola	Nexus 6	Smartphone
+Nexus 6P	Huawei	Nexus 6P	Smartphone
+Nexus 7	Asus	Nexus 7	Tablet
+Nexus 7 2013	Asus	Nexus 7	Tablet
+Nexus 9	HTC	Nexus 9	Tablet
+Nexus Player	Google	Nexus Player	TV
+Nexus S	Samsung	Nexus S	Smartphone
+Nexus S 4G	Samsung	Nexus S	Smartphone
+Nintendo WiiU	Nintendo	WiiU	Game Console
+Nintendo 3DS	Nintendo	3DS	Game Console
+Nokia_XL	Nokia	XL	Smartphone
+NOOK BNRV200	Nook	BNRV200	Tablet
+NOOK BNTV250	Nook	BNTV250	Tablet
+NOOK BNTV250A	Nook	BNTV250a	Tablet
+Note3	Samsung	Galaxy Note 3	Smartphone
+NS-13T001	Insignia	Flex	Tablet
+NS-14T002	Insignia	Flex	Tablet
+NS-14T004	Insignia	Flex	Tablet
+NS-15AT10	Insignia	Flex	Tablet
+NX008HD8G	E-Fun	NextBook	Tablet
+NX700QC	E-Fun	NextBook	Tablet
+NX785QC8G	E-Fun	NextBook	Tablet
+NXA116QC164	NextBook	Ares	Tablet
+NXM803HC	E-Fun	NextBook	Tablet
+ONDA V989	Onda	Octa Core	Tablet
+One	Unknown	Unknown	Unknown
+One A0001	OnePlus	One	Smartphone
+One M8	HTC	One	Smartphone
+Orange Daytona	Huawei	Orange Daytona	Smartphone
+ORBIT 4600	Maxwest	Orbit	Smartphone
+Orbit 5400T	Maxwest	Orbit	Smartphone
+P10/Q10/PTAB1040/PTAB1041	Poloroid	Unknown	Tablet
+P774A	HKC		Tablet
+P886A	HKC	P886A	Tablet
+PantechP2030/JSUS06132011	Pantech	Breeze	Smartphone
+PantechP4100	Pantech	Element	Smartphone
+PantechP5000/JTUS11212011	Pantech	Link	Smartphone
+PantechP6030/JZUS09022013	Pantech	Renue	Smartphone
+PantechP7040/JLUS04042011	Pantech	Link	Smartphone
+PantechP8000	Pantech	Crossover Adventure	Smartphone
+PantechP8010	Pantech	Flex	Smartphone
+PantechP9060	Pantech	Pocket	Smartphone
+PantechP9070	Pantech	Burst	Smartphone
+PantechP9090	Pantech	Discover	Smartphone
+PC36100	HTC	Evo 4G	Smartphone
+PC988	Unknown	PC988	PC
+pcdadr6350	HTC	Droid	Smartphone
+Pixel C	Google	Pixel C	Tablet
+PG86100	HTC	Evo	Smartphone
+PJ83100/2.20.502.7	HTC	One	Smartphone
+PJ83100/3.18.502.6	HTC	One	Smartphone
+PJ83100/3.18.502.9	HTC	One	Smartphone
+PJ83100/5.18.502.1	HTC	One	Smartphone
+Playstation 4	Playstation	Playstation 4	Game Console
+Playstation Vita	Playstation	Playstation Vita	Game Console
+PLT1066	Curtis	Proscan	Tablet
+PLT7035-B	Curtis	Proscan	Tablet
+PLT7100G	Curtis	Proscan	Tablet
+PLT7109G	Curtis	Proscan	Tablet
+PLT7130G	Curtis	Proscan	Tablet
+PLT7223G	Curtis	Proscan	Tablet
+PLT7602G	Curtis	Proscan	Tablet
+PLT7777	Curtis	Proscan	Tablet
+PLT9500	Curtis	Proscan	Tablet
+PLT9602G	Curtis	Proscan	Tablet
+PLT9606G	Curtis	Proscan	Tablet
+PM36100/1.17.502.5	HTC	One VX	Smartphone
+PM36100/1.17.502.9	HTC	One VX	Smartphone
+PM36100/2.21.502.1	HTC	One VX	Smartphone
+PM36100/2.22.502.1	HTC	One VX	Smartphone
+PMID921X	Polaroid	PMID921X	Tablet
+Prestige 7G	Visual Land	Prestige	Tablet
+Prestige 7L_4.1	Visual Land	Prestige	Tablet
+Prism	Huawei	Prism	Smartphone
+Prism II	Huawei	Prism	Smartphone
+PRO10D	Visual Land	Prestige Pro	Tablet
+PRO7D	Visual Land	Prestige Pro	Tablet
+PRO9D	Visual Land	Prestige Pro	Tablet
+PT-7142	Unknown	Unknown	Unknown
+PTAB1050	Polaroid	PTAB1050	Tablet
+ptab780	Poloroid	Kids	Tablet
+Q8H	Ippo	Q8H	Tablet
+Q9H	Motorola	Q9H	Smartphone
+QMV7A	Unknown	Ellipsis 7	Tablet
+QMV7B	Unknown	Ellipsis 7	Tablet
+QTab Q300	QTab	Q300	Tablet
+QTAQZ3	Unknown	Ellipsis 8	Tablet
+QUAD-CORE A33 y3	Ippo	Y3	Tablet
+R1	Unknown	Unknown	Unknown
+RCS13101T	RCA	Internet Music System	TV
+RCT6077W2	RCA	Unknown	Tablet
+RCT6103W46	RCA	Pro 10	Tablet
+RCT6203W46	RCA	Pro	Tablet
+RCT6272W23	RCA	Unknown	Tablet
+RCT6293W23	RCA	Gemini	Tablet
+RCT6378W2	RCA	Unknown	Tablet
+RCT6573W23	RCA	Apollo	Tablet
+RCT6672W23	RCA	Mercury	Tablet
+RCT6773W22	RCA	Voyager	Tablet
+RealPad MA7BX2	RealPad	MA7BX2	Tablet
+rk2928sdk	Unknown	Unknown	Tablet
+rk3026	Unknown	Unknown	Tablet
+S7	Unknown	Unknown	Unknown
+SAMSUNG GT-I8190/I8190XXANR6	Samsung	Galaxy S3 Mini	Smartphone
+SAMSUNG GT-I9152	Samsung	Galaxy Mega	Smartphone
+SAMSUNG GT-I9192	Samsung	Galaxy S4	Smartphone
+SAMSUNG GT-I9195	Samsung	Galaxy S4 Mini	Smartphone
+SAMSUNG GT-I9300/I9300XXUGNB5	Samsung	Galaxy S3	Smartphone
+SAMSUNG GT-I9500	Samsung	Galaxy S4	Smartphone
+SAMSUNG GT-I9505	Samsung	Galaxy S4	Smartphone
+SAMSUNG GT-N7100	Samsung	Galaxy Note 2	Smartphone
+SAMSUNG GT-N7100/N7100XXUEMK9	Samsung	Galaxy Note 2	Smartphone
+SAMSUNG GT-N7100/N7100XXUFNE2	Samsung	Galaxy Note 2	Smartphone
+SAMSUNG SCH-I545	Samsung	Galaxy S4	Smartphone
+SAMSUNG SCH-R970	Samsung	Galaxy S4	Smartphone
+SAMSUNG SCH-R970 USCC	Samsung	Galaxy S4	Smartphone
+SAMSUNG SCH-R970C	Samsung	Galaxy S4	Smartphone
+SAMSUNG SGH-M819N	Samsung	Galaxy Mega	Smartphone
+SAMSUNG SGH-M919	Samsung	Galaxy S4	Smartphone
+SAMSUNG SGH-M919N	Samsung	Galaxy S4	Smartphone
+SAMSUNG SGH-T399	Samsung	Galaxy Light	Smartphone
+SAMSUNG SGH-T399N	Samsung	Galaxy Light	Smartphone
+SAMSUNG SM-E500H	Samsung	Galaxy E5 Duos	Smartphone
+SAMSUNG SM-G3815/G3815XXUBMK5	Samsung	Galaxy Express	Smartphone
+SAMSUNG SM-G386T	Samsung	Galaxy Avant	Smartphone
+SAMSUNG SM-G386T1	Samsung	Galaxy Avant	Smartphone
+SAMSUNG SM-G860P	Samsung	Galaxy S5 Sport	Smartphone
+SAMSUNG SM-G900F	Samsung	Galaxy S5	Smartphone
+SAMSUNG SM-G900H	Samsung	Galaxy S5	Smartphone
+SAMSUNG SM-G900M	Samsung	Galaxy S5	Smartphone
+SAMSUNG SM-G900P	Samsung	Galaxy S5	Smartphone
+SAMSUNG SM-G900T	Samsung	Galaxy S5	Smartphone
+SAMSUNG SM-G900T1	Samsung	Galaxy S5	Smartphone
+SAMSUNG SM-G920P	Samsung	Galaxy S6	Smartphone
+SAMSUNG SM-N7505	Samsung	Galaxy Note 3 Neo	Smartphone
+SAMSUNG SM-N900	Samsung	Galaxy Note 3	Smartphone
+SAMSUNG SM-N9000Q	Samsung	Galaxy Note 3	Smartphone
+SAMSUNG SM-N9005	Samsung	Galaxy Note 3	Smartphone
+SAMSUNG SM-N9006	Samsung	Galaxy Note 3	Smartphone
+SAMSUNG SM-N900K/KKUFNI1	Samsung	Galaxy Note 3	Smartphone
+SAMSUNG SM-N900P	Samsung	Galaxy Note 3	Smartphone
+SAMSUNG SM-N900T	Samsung	Galaxy Note 3	Smartphone
+SAMSUNG SM-N900V	Samsung	Galaxy Note 3	Smartphone
+SAMSUNG SM-N910H	Samsung	Galaxy Note 4	Smartphone
+SAMSUNG SM-N910P	Samsung	Galaxy Note 4	Smartphone
+SAMSUNG SM-N910S	Samsung	Galaxy Note 4	Smartphone
+SAMSUNG SM-N910T	Samsung	Galaxy Note 4	Smartphone
+SAMSUNG SM-N910U	Samsung	Galaxy Note 4	Smartphone
+SAMSUNG SM-N910V	Samsung	Galaxy Note 4	Smartphone
+SAMSUNG SM-N910V 4G	Samsung	Galaxy Note 4	Smartphone
+SAMSUNG SM-N915P	Samsung	Galaxy Note Edge	Smartphone
+SAMSUNG SM-N915T	Samsung	Galaxy Note Edge	Smartphone
+SAMSUNG SM-N915V 4G	Samsung	Galaxy Note Edge	Smartphone
+SAMSUNG SM-P600	Samsung	Galaxy Note Tab	Tablet
+SAMSUNG SM-P601	Samsung	Galaxy Note Tab	Tablet
+SAMSUNG SM-P605V	Samsung	Galaxy Note Tab	Tablet
+SAMSUNG SM-P607T	Samsung	Galaxy Note Tab	Tablet
+SAMSUNG SM-P900	Samsung	Galaxy Note Pro	Tablet
+SAMSUNG SM-P905	Samsung	Galaxy Note Pro	Tablet
+SAMSUNG SM-P905V	Samsung	Galaxy Note Pro	Tablet
+SAMSUNG SM-S765C	Samsung	Galaxy Ace Style	Smartphone
+SAMSUNG SM-T230NU	Samsung	Galaxy Tab 4	Tablet
+SAMSUNG SM-T237P	Samsung	Galaxy Tab 4	Tablet
+SAMSUNG SM-T320	Samsung	Galaxy Tab Pro	Tablet 
+SAMSUNG SM-T337T	Samsung	Galaxy Tab 4 LTE	Tablet
+SAMSUNG SM-T330NU	Samsung	Galaxy Tab 4	Tablet
+SAMSUNG SM-T520	Samsung	Galaxy Tab Pro	Tablet
+SAMSUNG SM-T530	Samsung	Galaxy Tab 4	Tablet
+SAMSUNG SM-T530NU	Samsung	Galaxy Tab 4	Tablet
+SAMSUNG SM-T700	Samsung	Galaxy Tab S	Tablet
+SAMSUNG SM-T800	Samsung	Galaxy Tab S	Tablet
+SAMSUNG SM-T807T	Samsung	Galaxy Tab S	Tablet
+SAMSUNG SM-T900	Samsung	Galaxy Tab Pro	Tablet
+SAMSUNG SPH-L520	Samsung	Galaxy S4 Mini	Smartphone
+SAMSUNG SPH-L600	Samsung	Galaxy Mega	Smartphone
+SAMSUNG SPH-L710T	Samsung	Galaxy S3	Smartphone
+SAMSUNG SPH-L720	Samsung	Galaxy S4	Smartphone
+SAMSUNG SPH-L720T	Samsung	Galaxy S4	Smartphone
+SAMSUNG-SGH-A667/A667UCLD4	Samsung	Evergreen	Smartphone
+SAMSUNG-SGH-I257	Samsung	Galaxy S4 Mini	Smartphone
+SAMSUNG-SGH-I317	Samsung	Galaxy Note 2	Smartphone
+SAMSUNG-SGH-I337	Samsung	Galaxy S4	Smartphone
+SAMSUNG-SGH-I437	Samsung	Galaxy Express	Smartphone
+SAMSUNG-SGH-I437P	Samsung	Galaxy Express	Smartphone
+SAMSUNG-SGH-I467	Samsung	Galaxy Note	Tablet
+SAMSUNG-SGH-I497	Samsung	Galaxy Tab 2	Tablet
+SAMSUNG-SGH-I527	Samsung	Galaxy Mega	Smartphone
+SAMSUNG-SGH-I537	Samsung	Galaxy S4 Active	Smartphone
+SAMSUNG-SGH-I547	Samsung	Galaxy Ruby Pro	Smartphone
+SAMSUNG-SGH-I577	Samsung	Exhilarate	Smartphone
+SAMSUNG-SGH-I717	Samsung	Galaxy Note	Smartphone
+SAMSUNG-SGH-I727	Samsung	Galaxy S2 Skyrocket	Smartphone
+SAMSUNG-SGH-I747	Samsung	Galaxy S3	Smartphone
+SAMSUNG-SGH-I777	Samsung	Galaxy S2	Smartphone
+SAMSUNG-SGH-I827	Samsung	Galaxy Appeal	Smartphone
+SAMSUNG-SGH-I847	Samsung	Rugby Smart	Smartphone
+SAMSUNG-SGH-I897	Samsung	Captivate	Smartphone
+SAMSUNG-SGH-I897/I897UCJF6	Samsung	Captivate	Smartphone
+SAMSUNG-SGH-I897/I897UCJH7	Samsung	Captivate	Smartphone
+SAMSUNG-SGH-I897/I897UCJI6	Samsung	Captivate	Smartphone
+SAMSUNG-SGH-I897/I897UCKB1	Samsung	Captivate	Smartphone
+SAMSUNG-SGH-I927	Samsung	Captivate Glide	Smartphone
+SAMSUNG-SGH-I957	Samsung	Galaxy Tab	Tablet
+SAMSUNG-SGH-I997	Samsung	Infuse	Smartphone
+SAMSUNG-SM-C105A	Samsung	Galaxy S4 Zoom	Smartphone
+SAMSUNG-SM-G730A	Samsung	Galaxy S3 Mini	Smartphone
+SAMSUNG-SM-G750A	Samsung	Galaxy Mega 2	Smartphone
+SAMSUNG-SM-G850A	Samsung	Galaxy S5 Mini Duos	Smartphone
+SAMSUNG-SM-G870A	Samsung	Galaxy S5 Active	Smartphone
+SAMSUNG-SM-G900A	Samsung	Galaxy S5	Smartphone
+SAMSUNG-SM-N900A	Samsung	Galaxy Note 3	Smartphone
+SAMSUNG-SM-N910A	Samsung	Galaxy Note 4	Smartphone
+SAMSUNG-SM-N915A	Samsung	Galaxy Note Edge	Smartphone
+SAMSUNG-SM-P907A	Samsung	Galaxy Note Pro	Tablet
+SAMSUNG-SM-T217A	Samsung	Galaxy Tab 3 	Tablet
+SAMSUNG-SM-T337A	Samsung	Galaxy Tab 4	Tablet
+SAMSUNG-SM-T337T	Samsung	Galaxy Tab 4	Tablet
+SAMSUNG-SM-T537A	Samsung	Galaxy Tab 4	Tablet
+SAMSUNG-SM-T707A	Samsung	Galaxy Tab S	Tablet
+SAMSUNG-SM-T807A	Samsung	Galaxy Tab S	Tablet
+SC-1009JB	Supersonic	Matrix	Tablet
+SCH-I110	Samsung	Illusion	Smartphone
+SCH-I200	Samsung	Galaxy Stellar	Smartphone
+SCH-I200PP	Samsung	Galaxy Legend	Smartphone
+SCH-I400	Samsung	Continuum	Smartphone
+SCH-I405 4G	Samsung	Galaxy Stratosphere	Smartphone
+SCH-I415	Samsung	Galaxy Stratosphere 2	Smartphone
+SCH-I435	Samsung	Galaxy S4 Mini	Smartphone
+SCH-I500	Samsung	Fascinate	Smartphone
+SCH-I510 4G	Samsung	Droid Charge	Smartphone
+SCH-I535	Samsung	Galaxy S3	Smartphone
+SCH-I535 4G	Samsung	Galaxy S3	Smartphone
+SCH-I535PP	Samsung	Galaxy S3	Smartphone 
+SCH-I545	Samsung	Galaxy S4	Smartphone
+SCH-I605	Samsung	Galaxy Note 2	Smartphone
+SCH-i705	Samsung	Galaxy Tab 2	Tablet
+SCH-i705 4G	Samsung	Galaxy Tab 2	Tablet
+SCH-I800	Samsung	Galaxy Tab	Tablet
+SCH-I815	Samsung	Galaxy Tab	Tablet
+SCH-I815 4G	Samsung	Galaxy Tab	Tablet
+SCH-I905	Samsung	Galaxy Tab	Tablet
+SCH-I905 4G	Samsung	Galaxy Tab	Tablet
+SCH-I915	Samsung	Galaxy Tab 2	Tablet
+SCH-I925	Samsung	Galaxy Note	Smartphone
+SCH-M828C	Samsung	Galaxy Precedent	Smartphone
+SCH-M828C[2035102674]	Samsung	Galaxy Precedent	Smartphone
+SCH-M828C[2036054093]	Samsung	Galaxy Precedent	Smartphone
+SCH-M828C[5188213020]	Samsung	Galaxy Precedent	Smartphone
+SCH-M828C[8604288195]	Samsung	Galaxy Precedent	Smartphone
+SCH-R530M	Samsung	Galaxy S3	Smartphone
+SCH-R530U	Samsung	Galaxy S3	Smartphone
+SCH-R720	Samsung	Admire	Smartphone
+SCH-S720C	Samsung	Proclaim	Smartphone
+SCH-R740C	Samsung	Galaxy Discover	Smartphone
+SCH-R820	Samsung	Admire	Smartphone
+SCH-R970	Samsung	Galaxy S4	Smartphone
+SCH-S735C	Samsung	Unknown	Smartphone
+SCH-S738C	Samsung	Galaxy Centura	Smartphone
+SCH-S960L	Samsung	Galaxy Mega	Smartphone
+SCH-S968C	Samsung	Unknown	Smartphone
+SD4930UR	Kindle	Fire Phone	Smartphone
+Sensation_4G	HTC	Sensation 4G	Smartphone
+SGH-I257M	Samsung	Galaxy S4 Mini	Smartphone
+SGH-I257M-parrot	Samsung	Galaxy S4 Mini	Smartphone
+SGH-I317M	Samsung	Galaxy Note 2	Smartphone
+SGH-I337M	Samsung	Galaxy S4	Smartphone
+SGH-I727R	Samsung	Galaxy S2 Skyrocket	Smartphone
+SGH-I897	Samsung	Captivate	Smartphone
+SGH-M819N	Samsung	Galaxy Mega	Smartphone
+SGH-M919	Samsung	Galaxy S4	Smartphone
+SGH-M919N	Samsung	Galaxy S4	Smartphone
+SGH-S730G	Samsung	Galaxy	Galaxy Discover	Smartphone
+SGH-S959G	Samsung	Galaxy S2	Smartphone
+SGH-T399	Samsung	Galaxy Light	Smartphone
+SGH-T399N	Samsung	Galaxy Light	Smartphone
+SGH-T499	Samsung	Dart	Smartphone
+SGH-T599	Samsung	Galaxy Exhibit	Smartphone
+SGH-T599N	Samsung	Galaxy Exhibit	Smartphone
+SGH-T679	Samsung	Galaxy Exhibit	Smartphone
+SGH-T699	Samsung	Galaxy S Relay	Smartphone
+SGH-T759	Samsung	Exhibit	Smartphone
+SGH-T769	Samsung	Galaxy S Blaze	Smartphone
+SGH-T779	Samsung	Galaxy Tab 2	Tablet
+SGH-T839	Samsung	Sidekick	Smartphone
+SGH-T849	Samsung	Galaxy Tab	Tablet
+SGH-T859	Samsung	Galaxy Tab	Tablet
+SGH-T879	Samsung	Galaxy Note	Smartphone
+SGH-T889	Samsung	Galaxy Note 2	Smartphone
+SGH-T959	Samsung	Vibrant	Smartphone
+SGH-T959V	Samsung	Vibrant	Smartphone
+SGH-T989	Samsung	Galaxy S2	Smartphone
+SGH-T999	Samsung	Galaxy S3	Smartphone
+SGH-T999L	Samsung	Galaxy S3	Smartphone
+SGH-T999N	Samsung	Galaxy S3	Smartphone
+SGH-T999V	Samsung	Galaxy S3	Smartphone
+SGP311	Sony	Xperia Z	Tablet
+SGP511	Sony	Xperia Z2	Tablet
+SGP561	Sony	Xperia Z2 LTE-A	Tablet
+SGP612	Sony	Xperia Z3	Tablet
+SGP771	Sony	Xperia Z4	Tablet
+SGPT12	Sony	Xperia S	Tablet
+SHIELD	Nvidia	Shield	Tablet
+SHIELD Tablet	Nvidia	Shield	Tablet
+Sky 4.0	Sky	4.0	Smartphone
+Sky 5.5Q	Sky	5.5Q	Smartphone
+Slate 21	HP	Slate 21	PC
+Slate 21 Pro	HP	Slate 21	PC
+SM-G130E	Samsung	Galaxy Star 2	Smartphone
+SM-G355M	Samsung	Galaxy Core 2 Duos	Smartphone
+SM-G360P	Samsung	Galaxy Core Prime LTE	Smartphone
+SM-G3815	Samsung	Galaxy Express	Smartphone
+SM-G386T	Samsung	Galaxy Avant	Smartphone
+SM-G386T1	Samsung	Galaxy Avant	Smartphone
+SM-G530H	Samsung	Galaxy Avant	Smartphone
+SM-G730V	Samsung	Galaxy S3 Mini	Smartphone
+SM-G800H	Samsung	Galaxy S5 Mini Duos	Smartphone
+SM-G860P	Samsung	Galaxy S5 Sport	Smartphone
+SM-G900A	Samsung	Galaxy S5	Smartphone
+SM-G900F	Samsung	Galaxy S5	Smartphone
+SM-G900H	Samsung	Galaxy S5	Smartphone
+SM-G900P	Samsung	Galaxy S5	Smartphone
+SM-G900T	Samsung	Galaxy S5	Smartphone
+SM-G900T1	Samsung	Galaxy S5	Smartphone
+SM-G900V	Samsung	Galaxy S5	Smartphone
+SM-G920V	Samsung	Galaxy S6	Smartphone
+SM-G928X	Samsung	Galaxy S6 Edge Plus	Smartphone
+SM-N7505	Samsung	Galaxy Note 3 Neo	Smartphone
+SM-N900	Samsung	Galaxy Note 3	Smartphone
+SM-N9005	Samsung	Galaxy Note 3	Smartphone
+SM-N9006	Samsung	Galaxy Note 3	Smartphone
+SM-N900P	Samsung	Galaxy Note 3	Smartphone
+SM-N900T	Samsung	Galaxy Note 3	Smartphone
+SM-N900V	Samsung	Galaxy Note 3	Smartphone
+SM-N900W8	Samsung	Galaxy Note 3	Smartphone
+SM-N9100	Samsung	Galaxy Note 4 Duos	Smartphone
+SM-N910G	Samsung	Galaxy Note 4	Smartphone
+SM-N910P	Samsung	Galaxy Note 4	Smartphone
+SM-N910T	Samsung	Galaxy Note 4	Smartphone
+SM-N910V	Samsung	Galaxy Note 4	Smartphone
+SM-N915P	Samsung	Galaxy Note Edge	Smartphone
+SM-N915T	Samsung	Galaxy Note Edge	Smartphone
+SM-N915V	Samsung	Galaxy Note Edge	Smartphone
+SM-P600	Samsung	Galaxy Note Tab	Tablet
+SM-P601	Samsung	Galaxy Note Tab	Tablet
+SM-P605V	Samsung	Galaxy Note Tab	Tablet
+SM-P607T	Samsung	Galaxy Note Tab	Tablet
+SM-P900	Samsung	Galaxy Note Pro	Tablet
+SM-P905V	Samsung	Galaxy Note Pro	Tablet
+SM-S765C	Samsung	Galaxy Ace Style	Smartphone
+SM-S890L	Samsung	Galaxy S4 Mini	Smartphone
+SM-S975L	Samsung	Galaxy S4	Smartphone
+SM-T110	Samsung	Galaxy Tab 3 Lite	Tablet
+SM-T111	Samsung	Galaxy Tab 3 Lite	Tablet
+SM-T210	Samsung	Galaxy Tab 3 	Tablet
+SM-T2105	Samsung	Galaxy Tab 3 Kids	Tablet
+SM-T210R	Samsung	Galaxy Tab 3 	Tablet
+SM-T211	Samsung	Galaxy Tab 3 	Tablet
+SM-T217S	Samsung	Galaxy Tab 3 	Tablet
+SM-T217T	Samsung	Galaxy Tab 3 	Tablet
+SM-T230NU	Samsung	Galaxy Tab 4	Tablet
+SM-T237P	Samsung	Galaxy Tab 4	Tablet
+SM-T310	Samsung	Galaxy Tab 3 	Tablet
+SM-T320	Samsung	Galaxy	Tab Pro	Tablet
+SM-T330NU	Samsung	Galaxy Tab 4	Tablet
+SM-T337T	Samsung	Galaxy Tab 4	Tablet
+SM-T337V	Samsung	Galaxy Tab 4	Tablet
+SM-T520	Samsung	Galaxy Tab Pro	Tablet
+SM-T530NU	Samsung	Galaxy Tab 4	Tablet
+SM-T537V	Samsung	Galaxy Tab 4	Tablet
+SM-T550	Samsung	Galaxy Tab A	Tablet
+SM-T700	Samsung	Galaxy Tab S	Tablet
+SM-T707V	Samsung	Galaxy Tab S	Tablet
+SM-T800	Samsung	Galaxy Tab S	Tablet
+SM-T805	Samsung	Galaxy Tab S	Tablet
+SM-T807T	Samsung	Galaxy Tab S	Tablet
+SM-T807V	Samsung	Galaxy Tab S	Tablet
+SM-T900	Samsung	Galaxy Tab Pro	Tablet
+SNB02-NV7A	Fuhu	Nabi 2S	Tablet
+SNBJR-MT5C	Fuhu	Nabi Junior	Tablet
+SoftwinerEvb	SoftwinerEvb	Unknown	Tablet
+Sony Tablet S	Sony	Xperia S	Tablet
+SonyEricssonLT18a	Sony	Xperia Arc S	Smartphone
+SonyEricssonLT18i	Sony	Xperia Arc S	Smartphone
+SonyEricssonLT18i-o	Sony	Xperia Arc S	Smartphone
+SonyEricssonLT28at	Sony	Xperia Ion LTE	Smartphone
+SonyEricssonR800x	Sony	Xperia Play	Smartphone
+SonyEricssonST25a	Sony	Xperia U	Smartphone
+SonyLT26ii	Sony	Xperia SL	Smartphone
+SonyLT30at	Sony	Xperia TL	Smartphone
+SonyST21a	Sony	Xperia Tipo	Smartphone
+SPH-D600	Samsung	Conquer	Smartphone
+SPH-D700	Samsung	Epic	Smartphone
+SPH-D710	Samsung	Galaxy S2	Smartphone
+SPH-D710BST	Samsung	Galaxy S2	Smartphone
+SPH-D710VMUB	Samsung	Galaxy S2	Smartphone
+SPH-L300	Samsung	Galaxy Victory	Smartphone
+SPH-L520	Samsung	Galaxy S4 Mini	Smartphone
+SPH-L600	Samsung	Galaxy Mega	Smartphone
+SPH-L710	Samsung	Galaxy S3	Smartphone
+SPH-L710T	Samsung	Galaxy S3	Smartphone
+SPH-L720	Samsung	Galaxy S4	Smartphone
+SPH-L720T	Samsung	Galaxy S4	Smartphone
+SPH-L900	Samsung	Galaxy Note 2	Smartphone
+SPH-M580	Samsung	Replenish	Smartphone
+SPH-M580BST	Samsung	Replenish	Smartphone
+SPH-M820	Samsung	Galaxy Prevail	Smartphone
+SPH-M820-BST	Samsung	Galaxy Prevail	Smartphone
+SPH-M830	Samsung	Galaxy Rush	Smartphone
+SPH-M840	Samsung	Galaxy Ring	Smartphone
+SPH-M910	Samsung	Intercept	Smartphone
+SPH-M930BST	Samsung	Transform Ultra	Smartphone
+SPH-M950	Samsung	Galaxy Reverb	Smartphone
+SPH-P100	Samsung	Galaxy Tab	Tablet
+SPH-P500	Samsung	Galaxy Tab	Tablet
+SpringBoard	Huawei	SpringBoard	Smartphone
+Sprint APA7373KT	HTC	Evo Shift	Smartphone
+Sprint APA9292KT	HTC	Evo	Smartphone
+Sprint APC715CKT	HTC	Evo Design	Smartphone
+Sprint APX515CKT	HTC	Evo 3D	Smartphone
+SproutChannelCubby	Sprout Channel	Cubby	Tablet
+ST26a	Sony	Xperia	Smartphone
+ST26i	Sony	Xperia	Smartphone
+STJR75	Smarttab	Junior	Tablet
+Studio 5.0 S II	Blu	Studio	Smartphone
+STUDIO 5.0e  	Blu	Studio	Smartphone
+STUDIO 5.0K	Blu	Studio	Smartphone
+Studio 5.0LTE	Blu	Studio	Smartphone
+STUDIO 5.5	Blu	Studio	Smartphone
+Studio 6.0 LTE	Blu	Studio	Smartphone
+STUDIO6.0HD	Blu	Studio	Smartphone
+STUDIO6_0HD	Blu	Studio	Smartphone
+SURTAB-722-3G-HD-1S	Surtab	7 3GHD	Tablet
+T10	Unknown	Unknown	Unknown
+T752	Audiovox	T752	Tablet
+T7X	Unknown	Unknown	Unknown
+TAB-9160K	Maxwest	9160K	Tablet
+TABEO 8	Tabeo	Kids	Tablet
+TBQG774	Unknown	Unknown	Unknown
+TC70	Motorola	Symbol	Smartphone
+TECNO P9	Techno	Phantom	Tablet
+TegraNote-P1640	Nvidia	Tegra Note	Tablet
+ThinkPad Tablet	Lenovo	ThinkPad	Tablet
+TM1088	NuVision	TM1088	Tablet
+TM1088C	NuVision	TM1088	Tablet
+TM1318	NuVision	TM1318	Tablet
+TM785CH	Apex	TM785CH	Tablet
+TM785M3	NuVision	TM785M3	Tablet
+TM800A510L	NuVision	TM800A510L	Tablet
+TM9S775	Tmax	TM-9S775	Tablet
+T-Mobile G2	LG	G2	Smartphone
+T-Mobile myTouch	Unknown	myTouch	Smartphone
+T-Mobile myTouch Q	Unknown	myTouch	Smartphone
+Torque	Unknown	Unknown	Unknown
+TouchPad	HP	TouchPad	Tablet
+TR720F	Unknown	Unknown	Unknown
+Transformer Prime TF201	Asus	Transformer Prime	Tablet
+Transformer TF101	Asus	Transformer	Tablet
+Trio 7.85 vQ	Mach Speed	Trio Stealth G4	Tablet
+Trio AXS 3G	Mach Speed	AXS 3G	Tablet
+Trio AXS 4G	Mach Speed	AXS 4G	Tablet
+Trio Stealth G4 7	Mach Speed	Trio Stealth G4	Tablet
+Trio-Stealth G4 7	Mach Speed	Trio Stealth G4	Tablet
+Trio Stealth G4 7 v2	Mach Speed	Trio Stealth G4	Tablet
+Trio-Stealth G4 7 v2	Mach Speed	Trio Stealth G4	Tablet
+Trio Stealth_10	Mach Speed	Trio Stealth G2	Tablet
+Trio-Stealth_10	Mach Speed	Trio Stealth G2	Tablet
+Trio Stealth_8	Mach Speed	Trio Stealth G2	Tablet
+Trio-Stealth_8	Mach Speed	Trio Stealth G2	Tablet
+TRIO-7.85	Mach Speed	Trio Stealth G4	Tablet
+Trio-Stealth G4 10.1	Mach Speed	Trio Stealth G4	Tablet
+TY_Q8H	Unknown	Unknown	Tablet
+U1PRO	Pipo	U1Pro	Tablet
+U670C	Unimax	Brava	Smartphone
+V1014	DQV	V1014	Tablet
+V11	ThL	V11	Smartphone
+V140D	Venstar	V140D	Tablet
+V2	Saygus	V2	Smartphone
+V5	ZTE	V5	Smartphone
+Venue 7 3730	Dell	Venue	Tablet
+Venue 8 3830	Dell	Venue	Tablet
+Venue7 3740	Dell	Venue	Tablet
+Venue 7 3740	Dell	Venue	Tablet
+Venue8 3840	Dell	Venue	Tablet
+Venue 8 3840	Dell	Venue	Tablet
+Virtue Phablet 7	Maxwest	Virtue	Tablet
+Vision TV	Unknown	Unknown	Unknown
+VIVO AIR	Blu	Vivo Air	Smartphone
+VK410	LG	G Pad	Tablet
+VK700	LG	G Pad	Tablet
+VK810	LG	G Pad	Tablet
+VK810 4G	LG	G Pad	Tablet
+VM670	LG	Optimus	Smartphone
+Vortex	Unknown	Unknown	Unknown
+Vox	Vox	Unknown	Mobile
+VS415PP	LG	Optimus	Smartphone
+VS810PP	LG	Transpyre	Smartphone
+VS840 4G	LG	Lucid	Smartphone
+VS840PP	LG	Lucid	Smartphone
+VS870	LG	Lucid	Smartphone
+VS870 4G	LG	Lucid	Smartphone
+VS876	LG	Lucid	Smartphone
+VS880	LG	Vista	Smartphone
+VS890 4G	LG	Enact	Smartphone
+VS910 4G	LG	Revolution	Smartphone
+VS920 4G	LG	Spectrum	Smartphone
+VS930 4G	LG	Spectrum	Smartphone
+VS950 4G	LG	Intuition	Smartphone
+VS980 4G	LG	G2	Smartphone
+VS985 4G	LG	G3	Smartphone
+VTAB1008	Vizio	VTAB1008	Tablet
+w51090wvga	Unknown	Unknown	Unknown
+X10	Unknown	Unknown	Unknown
+X500A	Posh	Orion Pro	Smartphone
+X501_USA_Cricket	ZTE	Groove	Smartphone
+X7	Unknown	Unknown	Unknown
+X9006	Oppo	Find	Smartphone
+Xbox One	Xbox	Xbox One	Game Console
+XO Learning tablet	Vivitar	XO	Tablet
+Xoom	Motorola	Xoom	Tablet
+XoviBot	Xovi GmbH	XoviBot	Bot
+XT1019	Motorola	Moto	Smartphone
+XT1021	Motorola	Moto	Smartphone
+XT1023	Motorola	Moto	Smartphone
+XT1028	Motorola	Moto	Smartphone
+XT1030	Motorola	Droid Mini	Smartphone
+XT1031	Motorola	Moto	Smartphone
+XT1032	Motorola	Moto	Smartphone
+XT1034	Motorola	Moto	Smartphone
+XT1045	Motorola	Moto	Smartphone
+XT1049	Motorola	Moto	Smartphone
+XT1053	Motorola	Moto	Smartphone
+XT1056	Motorola	Moto	Smartphone
+XT1058	Motorola	Moto	Smartphone
+XT1060	Motorola	Moto	Smartphone
+XT1063	Motorola	Moto	Smartphone
+XT1064	Motorola	Moto	Smartphone
+XT1068	Motorola	Moto	Smartphone
+XT1080	Motorola	Droid Ultra	Smartphone
+XT1094	Motorola	Moto	Smartphone
+XT1095	Motorola	Moto	Smartphone
+XT1096	Motorola	Moto	Smartphone
+XT1097	Motorola	Moto	Smartphone
+XT1254	Motorola	Droid Turbo	Smartphone
+XT1526	Motorola	Moto E2	Smartphone
+XT555C	Motorola	Defy	Smartphone
+XT556	Motorola	Defy	Smartphone
+XT557	Motorola	Defy	Smartphone
+XT830C	Motorola	Moto	Smartphone
+XT897	Motorola	Photon	Smartphone
+XT897S	Motorola	Photon	Smartphone
+XT907	Motorola	RAZR	Smartphone
+XT914	Motorola	RAZR	Smartphone
+XT925	Motorola	RAZR	Smartphone
+XT939G	Motorola	Moto	Smartphone
+X-treme Play Tab	Mach Speed	Xtreme Play Tab	Tablet
+Yahoo!	Yahoo	Yahoo! bot	Bot
+Y88	Dragon	Touch	Tablet
+YOGA Tablet 2 Pro-1380F	Lenovo	Yoga	Tablet
+YP-G70	Samsung	Galaxy Player	Smartphone
+YP-GI1	Samsung	Galaxy Player	Smartphone
+yuntab701	YunTab	701	Tablet
+Z660G	ZTE	Whirl	Smartphone
+Z665C	ZTE	Valet	Smartphone
+Z667G	ZTE	Whirl	Smartphone
+Z667T	ZTE	Whirl	Smartphone
+Z730	ZTE	Concord 2	Smartphone
+Z740	ZTE	Radiant	Smartphone
+Z740G	ZTE	Radiant	Smartphone
+Z750C	Sony	Z750C	Smartphone
+Z768G	ZTE	Midnight	Smartphone
+Z769C	ZTE	Majesty	Smartphone
+Z797C	ZTE	Quartz	Smartphone
+Z830	Toshiba	Satellite	PC
+Z930L	ZTE	Unico LTE	Smartphone
+Z932L	ZTE	Rapido LTE	Smartphone
+Z970	ZTE	Zmax	Smartphone
+Z992	ZTE	Avail	Smartphone
+Z995	ZTE	Overture	Smartphone	
+Z796C	ZTE	Majesty	Smartphone
+Z998	ZTE	Unico LTE	Smartphone
+Zeepad 7DRK	Zeepad	7DRK	Tablet
+ZTE N9120	ZTE	Avid 4G	Smartphone
+ZTE V768	ZTE	Concord	Smartphone
+ZTE-X500	ZTE	Score	Smartphone
+ZTE-Z667G	ZTE	Whirl	Smartphone
+ZTE-Z740	ZTE	Radiant	Smartphone
+ZTE-Z740G	ZTE	Radiant	Smartphone
+ZTE-Z777	ZTE	Grand X	Smartphone
+ZTE-Z830	Toshiba	Portege	PC
+ZTE-Z990G	ZTE	Merit	Smartphone
+ZTE-Z992	ZTE	Avail 2	Smartphone
+ZTE-Z995	ZTE	Overture	Smartphone
+ZTE-Z998	ZTE	Unico LTE	Smartphone
+ZX-103168	Chromo	ZX	Tablet
+ZX-2926D	Chromo	Noria	Tablet
+ZX-RK2926	Chromo	ZX-RK2926	Tablet
+ZX-X15	Chromo	Noria	Tablet
