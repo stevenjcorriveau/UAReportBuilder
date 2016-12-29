@@ -29,4 +29,11 @@
         <org-netbeans-modules-javascript2-requirejs.enabled>true</org-netbeans-modules-javascript2-requirejs.enabled>
         <netbeans.hint.licensePath>${project.basedir}/licenseheader.txt</netbeans.hint.licensePath>
     </properties>
+    <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+        <word>Droid</word>
+        <word>Moto</word>
+        <word>RAZR</word>
+        <word>SAMSUNG</word>
+        <word>Smartphone</word>
+    </spellchecker-wordlist>
 </project-shared-configuration>

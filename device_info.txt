@@ -7,6 +7,7 @@ GT-I8160	Samsung	Galaxy Ace 2	Smartphone
 0PCV1	HTC	Desire	Smartphone
 101P	Panasonic	Lumix	Smartphone
 306SH	Sharp	Aquos Crystal	Smartphone
+4027D Alcatel Onetouch  Smartphone
 5860e	Coolpad	Quattro 4G	Smartphone
 7040N	Alcatel	OneTouch	Smartphone
 7040T	Alcatel	OneTouch	Smartphone
@@ -33,6 +34,7 @@ A200	Acer	Iconia	Tablet
 A210	Acer	Iconia	Tablet
 A3-A10	Acer	Iconia	Tablet
 A3-A20	Acer	Iconia	Tablet
+A5_Quad Allview A5 Quad Smartphone
 A500	Acer	Iconia	Tablet
 A510	Acer	Iconia	Tablet
 a5mid	Infotm	A5mid	Tablet
@@ -57,6 +59,7 @@ ADR910L 4G	Pantech	Marauder	Smartphone
 ADR930L 4G	Pantech	Perception	Smartphone
 ADVANCE 4.5	Blu	Advance 4.5	Smartphone
 AFTB	Amazon	Fire	TV
+Air 7.85 3G Roverpad  Air 7.85 3G Tablet
 ALCATEL 4015T	Alcatel	C1	Smartphone
 ALCATEL A564C	Alcatel	OneTouch	Smartphone
 Alcatel A851L	Alcatel	OneTouch	Smartphone
@@ -77,6 +80,10 @@ AN10BG3	Archos	Arnova	Tablet
 AN7DG3C	Archos	Tabeo	Tablet
 AOSP on HammerHead	Unknown	Unknown	Unknown
 AppleTV5	Apple	TV 4th Gen	TV
+Aquaris E5 HD Aquaris E5 HD Smartphone
+Archos 45d Platinum Archos  45d Smartphone
+Archos 90b Neon Archos  90b Neon  Tablet
+Archos Diamond S  Archos  Diamond S Smartphone
 ASUS PadFone X	Asus	PadFone	Smartphone
 ASUS PadFone X mini	Asus	PadFone	Smartphone
 ASUS Transformer Pad TF300T	Asus	Transformer Pad	Tablet
@@ -97,6 +104,7 @@ B1-710	Acer	Iconia	Tablet
 b1-720	Acer	Iconia	Tablet
 B1-730	Acer	Iconia One	Tablet
 B1-730HD	Acer	Iconia One	Tablet
+B1-810  Acer  Iconia One  Tablet
 BLU DASH 3.5	Blu	Dash	Smartphone
 BLU DASH 5.0	Blu	Dash	Smartphone
 BLU DASH JR	Blu	Dash	Smartphone
@@ -123,7 +131,9 @@ BN Nook HD	Nook	HD	Tablet
 BN NookHD+	Nook	HD	Tablet
 BNTV400	Nook	BNTV400	Tablet
 BNTV600	Nook	BNTV600	Tablet
+bq Edison 2 Quad Core 3G  BQ  Edison 2 Quad Core 3G Tablet
 Brilliant Pad TPC7026C	Android	Brilliant Pad	Tablet
+BS1078  Unknown BS1078  Tablet
 C100	Unknown	C100	Smartphone
 C14100	Kurio	Tab	Tablet
 C2104	Sony	Xperia	Smartphone
@@ -137,6 +147,7 @@ C5215	Kyocera	Hydro	Smartphone
 C525c	HTC	One	Smartphone
 C5302	Sony	Xperia SP	Smartphone
 C5303	Sony	Xperia	Smartphone
+C55 Unknown C55 Mobile
 C6522N	Kyocera	Hydro	Smartphone
 C6530	Kyocera	Hydro Life	Smartphone
 C6530N	Kyocera	Hydro Life	Smartphone
@@ -183,6 +194,8 @@ D6708	Sony	Xperia Z3v 4G LTE	Smartphone
 DA220HQL	Acer	DA220HQL	PC
 Dash 5.5	Blu	Dash	Smartphone
 DASH JR K	Blu	Dash Jr K	Smartphone
+Dell Streak Dell  Streak  Smartphone
+derChecker ZTE Z7 Max ZTE Nubia Z7 Max  Smartphone
 Desire HD	HTC	Desire	Smartphone
 DG800	Doogee	Valencia	Smartphone
 Digital2 Platinum	Digital2	D2	Tablet
@@ -191,6 +204,7 @@ DL1010Q	DigiLand	DL1010Q	Tablet
 DL700D	DigiLand	DL700D	Tablet
 DL701Q	DigiLand	DL701Q	Tablet
 DL900	Digicel	DL900	Smartphone
+D-LINK D100 D-Link  D100  Tablet
 DMTAB-IN08A	Fuhu	Nabi DreamTab	Tablet
 DMTAB-NV08B	Fuhu	Nabi DreamTab	Tablet
 DP7856K	Double Power	DP7856K	Tablet
@@ -212,9 +226,12 @@ DROID3	Motorola	Droid	Smartphone
 DROID4	Motorola	Droid	Smartphone
 DROIDX	Motorola	Droid	Smartphone
 DX752	Kocaso	iRola	Tablet
+E1052GP Logicom E1052GP Tablet
+E10i  SonyEricsson  Xperia x10 mini  Smartphone
 e1809c_v75_jbl_253_6628	Alps	e1809c	Smartphone
 E2281	Hisense	Sero 8	Tablet
 E270BSA	Hisense	Sero 7	Tablet
+E5823 Sony  Xperia Z5 Smartphone
 E6653	Sony	Xperia Z5	Smartphone
 E6782	Kyocera	Brigadier	Smartphone
 EGQ307	Ematic	EGQ307	Tablet
@@ -233,6 +250,7 @@ ETH103	Ematic	ETH103	Tablet
 Event	Unknown	Unknown	Unknown
 EveryPad2	Yamada	EveryPad 2	Tablet
 EVO	HTC	Evo	Smartphone
+F-01F Fujitsu Arrows NX F-01F Smartphone
 F1	Unknown	Unknown	Unknown
 F-10XHD	Linsay	Tablet PC	Tablet
 F786D	Unknown	Unknown	Tablet
@@ -240,8 +258,10 @@ Fire HD	Kindle	Fire HD	Tablet
 Fire HDX	Kindle	Fire HDX	Tablet
 Fly IQ4409 Quad	Fly	ERA Life 4	Smartphone
 Full AOSP on Rk29sdk	Unknown	Unknown	Tablet
+FX2 PAD10 RK3168  Intracon  FX2 Tablet
 G2	Unknown	Unknown	Unknown
 G6	Unknown	Unknown	Unknown
+G630-U20  Huawei  Ascend  Smartphone
 Galaxy Nexus	Samsung	Galaxy Nexus	Smartphone
 Gigaset QV830	Gigaset	QV830	Tablet
 Googlebot	Google	Googlebot	Bot
@@ -257,8 +277,11 @@ GT-I8190	Samsung	Galaxy S3 Mini	Smartphone
 GT-I8190N	Samsung	Galaxy S3 Mini	Smartphone
 GT-I8200	Samsung	Galaxy S3 Mini	Smartphone
 GT-I8200L	Samsung	Galaxy S3 Mini	Smartphone
+GT-I8552  Samsung Galaxy Win  Smartphone
+GT-I8730  Samsung Galaxy Express  Smartphone
 GT-I9060	Samsung	Galaxy Grand Neo	Smartphone
 GT-I9060L	Samsung	Galaxy Grand Neo	Smartphone
+GT-I9060M	Samsung	Galaxy Grand Neo	Smartphone
 GT-I9082	Samsung	Galaxy Grand Duos	Smartphone
 GT-I9082L	Samsung	Galaxy Grand Duos	Smartphone
 GT-I9100	Samsung	Galaxy S2	Smartphone
@@ -284,6 +307,7 @@ GT-N7100	Samsung	Galaxy Note 2	Smartphone
 GT-N7102	Samsung	Galaxy Note 2 Duos	Smartphone
 GT-N7105	Samsung	Galaxy Note 2 LTE	Smartphone
 GT-N8013	Samsung	Galaxy Tab	Tablet
+GT-N8020	Samsung	Galaxy Note LTE	Tablet
 GT-P1000	Samsung	Galaxy Tab	Tablet
 GT-P1010	Samsung	Galaxy Tab	Tablet
 GT-P3100	Samsung	Galaxy Tab 2	Tablet
@@ -295,6 +319,7 @@ GT-P5113	Samsung	Galaxy Tab 2	Tablet
 GT-P5200	Samsung	Galaxy Tab 3	Tablet
 GT-P5210	Samsung	Galaxy Tab 3	Tablet
 GT-P6210	Samsung	Galaxy Tab	Tablet
+GT-P6800	Samsung	Galaxy Tab	Tablet
 GT-P7310	Samsung	Galaxy Tab	Tablet
 GT-P7510	Samsung	Galaxy Tab	Tablet
 GT-S5830D-parrot	Samsung	Galaxy Ace	Smartphone
@@ -333,6 +358,7 @@ HTC Desire	HTC	Desire	Smartphone
 HTC Desire 510	HTC	Desire	Smartphone
 HTC Desire 610	HTC	Desire	Smartphone
 HTC_Desire_610	HTC	Desire	Smartphone
+HTC_Desire_728G dual sim	HTC	Desire	Smartphone
 HTC Desire 816 dual sim	HTC	Desire	Smartphone
 HTC Desire Eye	HTC	Desire	Smartphone
 HTC first	HTC	First	Smartphone
@@ -345,6 +371,7 @@ HTC One VX	HTC	One VX	Smartphone
 HTC One X	HTC	One X	Smartphone
 HTC One X+	HTC	One X	Smartphone
 HTC One_M8	HTC	One M8	Smartphone
+HTC One_M8s	HTC	One M8s	Smartphone
 HTC One M9	HTC	One M9	Smartphone
 HTC PH39100	HTC	Vivid	Smartphone
 HTC Sensation 4G	HTC	Sensation	Smartphone
@@ -412,14 +439,20 @@ HTC-A9192/1.0	HTC	Inspire 4G	Smartphone
 HTCDESIRE	HTC	Desire	Smartphone
 HTCEVOV4G	HTC	Evo	Smartphone
 HTCONE	HTC	One	Smartphone
+HUAWEI G7-L01	Huawei	Ascend G7	Smartphone
+HUAWEI GRA-L09	Huawei	P8	Smartphone
 HUAWEI H868C	Huawei	Glory	Smartphone
 HUAWEI H871G	Huawei	Magna	Smartphone
 HUAWEI H881C	Huawei	Ascend	Smartphone
+HUAWEI MT1-U06	Huawei	Ascend Mate	Smartphone
+HUAWEI RIO-L01	Huawei	G8	Smartphone
 Huawei U8800-51	Huawei	Ideos	Smartphone
 Huawei Y301A1	Huawei	Valiant	Smartphone
 Huawei Y301A2	Huawei	Vitria	Smartphone
 HUAWEI Y336-A1	Huawei	Ascend	Smartphone
 HUAWEI Y536A1	Huawei	Fusion	Smartphone
+HUAWEI Y550-L01	Huawei	Ascend	Smartphone
+HUAWEI Y600-U20	Huawei	Ascend	Smartphone
 HUAWEI-M835	Huawei	Ideos	Smartphone
 HUAWEI-M931	Huawei	Premia	Smartphone
 Huawei-U8665	Huawei	Fusion	Smartphone
@@ -468,6 +501,7 @@ KFTHWI	Kindle	Kindle Fire HDX	Tablet
 KFTT	Kindle	Kindle Fire HD	Tablet
 Kindle Fire	Kindle	Kindle Fire	Tablet
 Kindle Fire HD	Kindle	Kindle Fire HD	Tablet
+KT961 Unknown KT961 Tablet
 Kurio10S	Kurio	Family	Tablet
 Kurio7S	Kurio	7S	Tablet
 KYOCERA-E6560	Kyocera	DuraForce	Smartphone
@@ -476,27 +510,38 @@ Le Pan S	Matsunichi	Le Pan S	Tablet
 Le Pan TC1010	Matsunichi	Le Pan	Tablet
 Le Pan TC1020	Matsunichi	Le Pan	Tablet
 Le Pan TC802A	Matsunichi	Le Pan	Tablet
+LENNY3  Wiko  Lenny 3 Smartphone
+Lenovo A2020a40  Lenovo  Vibe C  Smartphone
+Lenovo A3500-FL Lenovo  IdeaTab A7-40 Tablet
 Lenovo A369i	Lenovo	A369i	Smartphone
 Lenovo A5500-F	Lenovo	IdeaTab	Tablet
 Lenovo A7600-F	Lenovo	IdeaTab	Tablet
 Lenovo B6000-F	Lenovo	Yoga	Tablet
 Lenovo B8000-F	Lenovo	IdeaPad	Tablet
 Lenovo B8080-F	Lenovo	Yoga	Tablet
+Lenovo K50-t5 Lenovo  K3 Note Tablet
+Lenovo K910 Lenovo  Vibe Z  Smartphone
 Lenovo S960	Lenovo	Vibe	Smartphone
 Lenovo TAB S8-50F	Lenovo	S8	Tablet
+Lenovo TB2-X30F Lenovo  Tab 2 A10-30  Tablet
 LePanII	Matsunichi	Le Pan	Tablet
 LG Google TV TV	LG	Google TV	Other
 LG-C729	LG	DoublePlay	Smartphone
 LG-C800	LG	myTouch	Smartphone
+LG-D320	LG	D320	Smartphone
 LG-D321	LG	Optimus	Smartphone
 LG-D321/D32110c	LG	Optimus	Smartphone
+LG-D405	LG	Optimus L90	Smartphone
 LG-D410	LG	Dual	Smartphone
 LG-D415	LG	Optimus	Smartphone
 LG-D500	LG	Optimus	Smartphone
 LG-D520	LG	Optimus	Smartphone
 LG-D631	LG	Vista	Smartphone
 LG-D631/D63110b	LG	Vista	Smartphone
+LG-D680	LG	G Pro Lite	Smartphone
 LG-D686	LG	Dual	Smartphone
+LG-D690 LG  G3  Smartphone
+LG-D724 LG  G3  Smartphone
 LG-D725	LG	Vigor	Smartphone
 LG-D725/D72510d	LG	Vigor	Smartphone
 LG-D800	LG	G2	Smartphone
@@ -507,28 +552,51 @@ LG-D800/D80020u	LG	G2	Smartphone
 LG-D800/D80020y	LG	G2	Smartphone
 LG-D801	LG	G2	Smartphone
 LG-D802	LG	G2	Smartphone
+LG-D820 LG  G2  Smartphone
+LG-D821 LG  G2  Smartphone
+LG-D830 LG  G Pro 2  Smartphone
 LG-D850	LG	G3	Smartphone
 LG-D850/D85010d	LG	G3	Smartphone
 LG-D850/D85010f	LG	G3	Smartphone
 LG-D850/D85020f	LG	G3	Smartphone
 LG-D851	LG	G3	Smartphone
+LG-D852 LG  G3  Smartphone
 LG-D855	LG	G3	Smartphone
 LG-D950	LG	G Flex	Smartphone
 LG-D950/D95020b	LG	G Flex	Smartphone
 LG-D950/D95020f	LG	G Flex	Smartphone
 LG-D959	LG	G Flex	Smartphone
-LG-E460	LG	Optimus	Smartphone
+LG-E430 LG  Optimus  Smartphone
+LG-E460	LG	Optimus L5 II	Smartphone
+LG-E610V	LG	Optimus L5 II	Smartphone
+LG-E612	LG	Optimus L5 II	Smartphone
+LG-E615	LG	Optimus L5 II	Smartphone
 LG-E739	LG	myTouch	Smartphone
 LG-E970	LG	Optimus	Smartphone
 LG-E970/E97011c	LG	Optimus	Smartphone
 LG-E970/E97020j	LG	Optimus	Smartphone
-LG-E980	LG	Optimus	Smartphone
+LG-E980	LG	Optimus G Pro	Smartphone
+LG-E975	LG	Optimus G	Smartphone
+LG-E980	LG	Optimus G	Smartphone
 LG-E980/E98010p	LG	Optimus	Smartphone
 LG-E980/E98020g	LG	Optimus	Smartphone
 LG-E980/E98020h	LG	Optimus	Smartphone
+LG-E987	LG	Optimus G	Smartphone
+LG-E988	LG	Optimus G	Smartphone
+LG-F160K	LG	Optimus	Smartphone
+LG-F180K	LG	Optimus G	Smartphone
 LG-F240K	LG	Optimus	Smartphone
 LG-F240K/20g	LG	Optimus	Smartphone
 LG-F320K	LG	Optimus	Smartphone
+LG-F240L  LG  Optimus G Pro Smartphone
+LG-F400S  LG  G3  Smartphone
+LG-H735	LG	G4 Beat	Smartphone
+LG-H815	LG	G4	Smartphone
+LG-H830	LG	G5	Smartphone
+LG-H9000	LG	V10	Smartphone
+LG-H901	LG	V10	Smartphone
+LG-H910	LG	V20	Smartphone
+LG-K420	LG	K10 LTE	Smartphone
 LGL31L	LG	Optimus Access	Smartphone
 LGL31L/V100	LG	Optimus	Smartphone
 LGL34C	LG	Optimus	Smartphone
@@ -538,6 +606,7 @@ LG-L38C	LG	Optimus	Smartphone
 LGL39C	LG	Optimus	Smartphone
 LGL39C/V100	LG	Optimus	Smartphone
 LG-L40G/V100	LG	Extreme	Smartphone
+LG-L160L	LG	Optimus	Smartphone
 LGL41C	LG	Ultimate	Smartphone
 LGL41C/V100	LG	Ultimate	Smartphone
 LGL45C	LG	Optimus	Smartphone
@@ -568,6 +637,7 @@ LG-LS995	LG	G Flex	Smartphone
 LGMS323	LG	Optimus	Smartphone
 LGMS395	LG	Optimus	Smartphone
 LGMS500	LG	Optimus	Smartphone
+LG-MS550  LG  Stylo 2 Plus  Smartphone
 LGMS659	LG	Optimus	Smartphone
 LG-MS695	LG	Optimus	Smartphone
 LGMS769	LG	Optimus	Smartphone
@@ -575,22 +645,30 @@ LG-MS770	LG	Motion	Smartphone
 LG-MS870	LG	Spirit	Smartphone
 LG-MS910	LG	Esteem	Smartphone
 LG-P350	LG	Optimus Me	Smartphone
+LG-P500 LG  Optimus One Smartphone
 LG-P505/V10i	LG	Phoenix	Smartphone
 LG-P505/V11e	LG	Phoenix	Smartphone
 LG-P505/V11h	LG	Phoenix	Smartphone
 LG-P509	LG	Optimus	Smartphone
 LG-P659	LG	Optimus	Smartphone
 LG-P705	LG	Optimus	Smartphone
+LG-P760	LG	Optimus	Smartphone
+LG-P760-Orange	LG	Optimus	Smartphone
 LG-P769	LG	Optimus	Smartphone
 LG-P870	LG	Escape	Smartphone
 LG-P870/P87010i	LG	Escape	Smartphone
 LG-P870/P87020d	LG	Escape	Smartphone
+LG-P880	LG	Optimus	Smartphone
 LG-P925/V10e	LG	Thrill	Smartphone
 LG-P930	LG	Nitro	Smartphone
 LG-P930/V10f	LG	Nitro	Smartphone
 LG-P930/V20c	LG	Nitro	Smartphone
 LG-P930/V20f	LG	Nitro	Smartphone
+LG-P970h	LG	Optimus	Smartphone
 LG-P999	LG	G2X	Smartphone
+LGUK41  LG  G Pad LTE Tablet
+LGUK495 LG  G Pad F Tablet
+LGUK750 LG  G Pad Tablet
 LG-V400	LG	G Pad	Tablet
 LG-V410	LG	G Pad	Tablet
 LG-V410/V41010b	LG	G Pad	Tablet
@@ -614,6 +692,8 @@ LIFE PRO	Blu	Life Pro	Smartphone
 LIFE PURE	Blu	Life Pure	Smartphone
 LIFE PURE MINI	Blu	Life Pure	Smartphone
 LIFETAB_E723X	Unknown	Unknown	Tablet
+LIFETAB_P831X	Medion	LifeTab	Tablet
+LIFETAB_S831X	Medion	LifeTab	Tablet
 LR-097	Unknown	Unknown	Unknown
 LR102	Ntixo	Contixo	Tablet
 LS670	LG	Optimus	Smartphone
@@ -646,10 +726,14 @@ ME173X	Asus	MeMO Pad	Tablet
 ME301T	Asus	MeMO Pad	Tablet
 ME302C	Asus	MeMO Pad	Tablet
 ME302KL	Asus	MeMO Pad	Tablet
+MI 3W Xiaomi  Mi 3  Smartphone
+Mi-4c Xiaomi  Mi 4c Smartphone
 Micromax A120	Micromax	Canvas	Smartphone
 Micromax A27	Micromax	Bolt	Smartphone
 Micromax A47	Micromax	Bolt	Smartphone
+Micromax Q334	Micromax	Canvas Spark	Smartphone
 MID	Unknown	Unknown	Unknown
+MID4X10PJ Polaroid  MID4X10PJ Tablet
 MID7022	Coby	Kyros	Tablet
 MID7033	Coby	Kyros	Tablet
 MID7034	Coby	Kyros	Tablet
@@ -664,6 +748,10 @@ MID9742	Coby	Kyros	Tablet
 NEO-X5-116A	Minix	NEO X5	TV
 MOTWX435KT	Motorola	Triumph	Smartphone
 MOT-XT910	Motorola	RAZR	Smartphone
+MOT-XT923 Motorola  RAZR HD  Smartphone
+MOT-XT925 Motorola  RAZR HD  Smartphone
+Moto G  Motorola  Moto G  Smartphone
+MotoE2(4G-LTE)  Motorola  Moto E  Smartphone
 msnbot-media	Microsoft	msnbot	Bot
 MT2L03	Huawei	Ascend	Smartphone
 MT7001	Eviant	MT7001	Tablet
@@ -705,6 +793,7 @@ Next9P	E-Fun	NextBook	Tablet
 Nexus 10	Samsung	Nexus 10	Tablet
 Nexus 4	LG	Nexus 4	Smartphone
 Nexus 5	LG	Nexus 5	Smartphone
+Nexus 5X  LG  Nexus 5X  Smartphone
 Nexus 6	Motorola	Nexus 6	Smartphone
 Nexus 6P	Huawei	Nexus 6P	Smartphone
 Nexus 7	Asus	Nexus 7	Tablet
@@ -725,6 +814,7 @@ NS-14T002	Insignia	Flex	Tablet
 NS-14T004	Insignia	Flex	Tablet
 NS-15AT10	Insignia	Flex	Tablet
 NX008HD8G	E-Fun	NextBook	Tablet
+NX507J  ZTE Nubia Z7 Mini Smartphone
 NX700QC	E-Fun	NextBook	Tablet
 NX785QC8G	E-Fun	NextBook	Tablet
 NXA116QC164	NextBook	Ares	Tablet
@@ -732,13 +822,19 @@ NXM803HC	E-Fun	NextBook	Tablet
 ONDA V989	Onda	Octa Core	Tablet
 One	Unknown	Unknown	Unknown
 One A0001	OnePlus	One	Smartphone
+ONE E1003 OnePlus X Smartphone
 One M8	HTC	One	Smartphone
+One Mini 2  HTC One Mini 2  Smartphone
+ONEPLUS A3003 OnePlus A3003 Smartphone
+ONIX 10.1 QC  Onix  10.1 QC Tablet
 Orange Daytona	Huawei	Orange Daytona	Smartphone
 ORBIT 4600	Maxwest	Orbit	Smartphone
 Orbit 5400T	Maxwest	Orbit	Smartphone
 P10/Q10/PTAB1040/PTAB1041	Poloroid	Unknown	Tablet
 P774A	HKC		Tablet
 P886A	HKC	P886A	Tablet
+PA7808-8  Jay-Tech  PA78-7-8  Tablet
+PadE102U  TG  TalkPad Tablet
 PantechP2030/JSUS06132011	Pantech	Breeze	Smartphone
 PantechP4100	Pantech	Element	Smartphone
 PantechP5000/JTUS11212011	Pantech	Link	Smartphone
@@ -753,6 +849,7 @@ PC36100	HTC	Evo 4G	Smartphone
 PC988	Unknown	PC988	PC
 pcdadr6350	HTC	Droid	Smartphone
 Pixel C	Google	Pixel C	Tablet
+Pixel V2  Lava  Pixel V2  Smartphone
 PG86100	HTC	Evo	Smartphone
 PJ83100/2.20.502.7	HTC	One	Smartphone
 PJ83100/3.18.502.6	HTC	One	Smartphone
@@ -760,6 +857,7 @@ PJ83100/3.18.502.9	HTC	One	Smartphone
 PJ83100/5.18.502.1	HTC	One	Smartphone
 Playstation 4	Playstation	Playstation 4	Game Console
 Playstation Vita	Playstation	Playstation Vita	Game Console
+PLK-UL00  Huawei  Honor 7 Smartphone
 PLT1066	Curtis	Proscan	Tablet
 PLT7035-B	Curtis	Proscan	Tablet
 PLT7100G	Curtis	Proscan	Tablet
@@ -776,6 +874,7 @@ PM36100/1.17.502.9	HTC	One VX	Smartphone
 PM36100/2.21.502.1	HTC	One VX	Smartphone
 PM36100/2.22.502.1	HTC	One VX	Smartphone
 PMID921X	Polaroid	PMID921X	Tablet
+POV_TAB-PROTAB26-IPS10  Point Of View ProTab 26 XXL IPS Tablet
 Prestige 7G	Visual Land	Prestige	Tablet
 Prestige 7L_4.1	Visual Land	Prestige	Tablet
 Prism	Huawei	Prism	Smartphone
@@ -783,9 +882,11 @@ Prism II	Huawei	Prism	Smartphone
 PRO10D	Visual Land	Prestige Pro	Tablet
 PRO7D	Visual Land	Prestige Pro	Tablet
 PRO9D	Visual Land	Prestige Pro	Tablet
+PSP5455DUO  Prestigio PSP5455DUO  Smartphone
 PT-7142	Unknown	Unknown	Unknown
 PTAB1050	Polaroid	PTAB1050	Tablet
 ptab780	Poloroid	Kids	Tablet
+PULP  Wiko  Pulp  Smartphone
 Q8H	Ippo	Q8H	Tablet
 Q9H	Motorola	Q9H	Smartphone
 QMV7A	Unknown	Ellipsis 7	Tablet
@@ -794,6 +895,8 @@ QTab Q300	QTab	Q300	Tablet
 QTAQZ3	Unknown	Ellipsis 8	Tablet
 QUAD-CORE A33 y3	Ippo	Y3	Tablet
 R1	Unknown	Unknown	Unknown
+RAINBOW Wiko  Rainbow Smartphone
+RAINBOW JAM Wiko  Rainbow Jam Smartphone
 RCS13101T	RCA	Internet Music System	TV
 RCT6077W2	RCA	Unknown	Tablet
 RCT6103W46	RCA	Pro 10	Tablet
@@ -805,16 +908,20 @@ RCT6573W23	RCA	Apollo	Tablet
 RCT6672W23	RCA	Mercury	Tablet
 RCT6773W22	RCA	Voyager	Tablet
 RealPad MA7BX2	RealPad	MA7BX2	Tablet
+Redmi Note 3  Xiaomi  Redmi Note 3  Smartphone
 rk2928sdk	Unknown	Unknown	Tablet
 rk3026	Unknown	Unknown	Tablet
 S7	Unknown	Unknown	Unknown
+Samsung Galaxy S4 - 4.4.4 - API 19 - 1080x1920  Samsung Galaxy S4 Smartphone
 SAMSUNG GT-I8190/I8190XXANR6	Samsung	Galaxy S3 Mini	Smartphone
 SAMSUNG GT-I9152	Samsung	Galaxy Mega	Smartphone
 SAMSUNG GT-I9192	Samsung	Galaxy S4	Smartphone
 SAMSUNG GT-I9195	Samsung	Galaxy S4 Mini	Smartphone
 SAMSUNG GT-I9300/I9300XXUGNB5	Samsung	Galaxy S3	Smartphone
 SAMSUNG GT-I9500	Samsung	Galaxy S4	Smartphone
+SAMSUNG GT-I9502  Samsung Galaxy S4 Smartphone
 SAMSUNG GT-I9505	Samsung	Galaxy S4	Smartphone
+SAMSUNG GT-I9515	Samsung	Galaxy S4	Smartphone
 SAMSUNG GT-N7100	Samsung	Galaxy Note 2	Smartphone
 SAMSUNG GT-N7100/N7100XXUEMK9	Samsung	Galaxy Note 2	Smartphone
 SAMSUNG GT-N7100/N7100XXUFNE2	Samsung	Galaxy Note 2	Smartphone
@@ -825,8 +932,14 @@ SAMSUNG SCH-R970C	Samsung	Galaxy S4	Smartphone
 SAMSUNG SGH-M819N	Samsung	Galaxy Mega	Smartphone
 SAMSUNG SGH-M919	Samsung	Galaxy S4	Smartphone
 SAMSUNG SGH-M919N	Samsung	Galaxy S4	Smartphone
+SAMSUNG SGH-M919V	Samsung	Galaxy S4	Smartphone
 SAMSUNG SGH-T399	Samsung	Galaxy Light	Smartphone
 SAMSUNG SGH-T399N	Samsung	Galaxy Light	Smartphone
+SAMSUNG SGH-T879  Samsung Galaxy Note Smartphone
+SAMSUNG SHV-E300K Samsung Galaxy S4 Smartphone
+SAMSUNG SHV-E300S Samsung Galaxy S4 Smartphone
+SAMSUNG SM-A500FU Samsung Galaxy A5 Smartphone
+SAMSUNG SM-A9000 Samsung Galaxy A9 Smartphone
 SAMSUNG SM-E500H	Samsung	Galaxy E5 Duos	Smartphone
 SAMSUNG SM-G3815/G3815XXUBMK5	Samsung	Galaxy Express	Smartphone
 SAMSUNG SM-G386T	Samsung	Galaxy Avant	Smartphone
@@ -839,6 +952,7 @@ SAMSUNG SM-G900P	Samsung	Galaxy S5	Smartphone
 SAMSUNG SM-G900T	Samsung	Galaxy S5	Smartphone
 SAMSUNG SM-G900T1	Samsung	Galaxy S5	Smartphone
 SAMSUNG SM-G920P	Samsung	Galaxy S6	Smartphone
+SAMSUNG SM-G930T1 Samsung Galaxy A7 Smartphone
 SAMSUNG SM-N7505	Samsung	Galaxy Note 3 Neo	Smartphone
 SAMSUNG SM-N900	Samsung	Galaxy Note 3	Smartphone
 SAMSUNG SM-N9000Q	Samsung	Galaxy Note 3	Smartphone
@@ -858,6 +972,7 @@ SAMSUNG SM-N910V 4G	Samsung	Galaxy Note 4	Smartphone
 SAMSUNG SM-N915P	Samsung	Galaxy Note Edge	Smartphone
 SAMSUNG SM-N915T	Samsung	Galaxy Note Edge	Smartphone
 SAMSUNG SM-N915V 4G	Samsung	Galaxy Note Edge	Smartphone
+SAMSUNG SM-N920T	Samsung	Galaxy Note 5	Smartphone
 SAMSUNG SM-P600	Samsung	Galaxy Note Tab	Tablet
 SAMSUNG SM-P601	Samsung	Galaxy Note Tab	Tablet
 SAMSUNG SM-P605V	Samsung	Galaxy Note Tab	Tablet
@@ -909,6 +1024,7 @@ SAMSUNG-SGH-I897/I897UCKB1	Samsung	Captivate	Smartphone
 SAMSUNG-SGH-I927	Samsung	Captivate Glide	Smartphone
 SAMSUNG-SGH-I957	Samsung	Galaxy Tab	Tablet
 SAMSUNG-SGH-I997	Samsung	Infuse	Smartphone
+SAMSUNG-SGH-T379  Samsung Gravity TXT Smartphone
 SAMSUNG-SM-C105A	Samsung	Galaxy S4 Zoom	Smartphone
 SAMSUNG-SM-G730A	Samsung	Galaxy S3 Mini	Smartphone
 SAMSUNG-SM-G750A	Samsung	Galaxy Mega 2	Smartphone
@@ -918,6 +1034,7 @@ SAMSUNG-SM-G900A	Samsung	Galaxy S5	Smartphone
 SAMSUNG-SM-N900A	Samsung	Galaxy Note 3	Smartphone
 SAMSUNG-SM-N910A	Samsung	Galaxy Note 4	Smartphone
 SAMSUNG-SM-N915A	Samsung	Galaxy Note Edge	Smartphone
+SAMSUNG-SM-N930A  Samsung Galaxy S7 Note  Smartphone
 SAMSUNG-SM-P907A	Samsung	Galaxy Note Pro	Tablet
 SAMSUNG-SM-T217A	Samsung	Galaxy Tab 3 	Tablet
 SAMSUNG-SM-T337A	Samsung	Galaxy Tab 4	Tablet
@@ -925,6 +1042,7 @@ SAMSUNG-SM-T337T	Samsung	Galaxy Tab 4	Tablet
 SAMSUNG-SM-T537A	Samsung	Galaxy Tab 4	Tablet
 SAMSUNG-SM-T707A	Samsung	Galaxy Tab S	Tablet
 SAMSUNG-SM-T807A	Samsung	Galaxy Tab S	Tablet
+SC-04E  Samsung Galaxy S4 Smartphone
 SC-1009JB	Supersonic	Matrix	Tablet
 SCH-I110	Samsung	Illusion	Smartphone
 SCH-I200	Samsung	Galaxy Stellar	Smartphone
@@ -934,7 +1052,9 @@ SCH-I405 4G	Samsung	Galaxy Stratosphere	Smartphone
 SCH-I415	Samsung	Galaxy Stratosphere 2	Smartphone
 SCH-I435	Samsung	Galaxy S4 Mini	Smartphone
 SCH-I500	Samsung	Fascinate	Smartphone
+SCH-I510	Samsung	Droid Charge	Smartphone
 SCH-I510 4G	Samsung	Droid Charge	Smartphone
+SCH-I515  Samsung Galaxy Nexus  Smartphone
 SCH-I535	Samsung	Galaxy S3	Smartphone
 SCH-I535 4G	Samsung	Galaxy S3	Smartphone
 SCH-I535PP	Samsung	Galaxy S3	Smartphone 
@@ -965,6 +1085,8 @@ SCH-S735C	Samsung	Unknown	Smartphone
 SCH-S738C	Samsung	Galaxy Centura	Smartphone
 SCH-S960L	Samsung	Galaxy Mega	Smartphone
 SCH-S968C	Samsung	Unknown	Smartphone
+SCL-AL00  Huawei  Honor 4A  Smartphone
+SCORE_PLUS_3G Odys  Score Plus 3G Smartphone
 SD4930UR	Kindle	Fire Phone	Smartphone
 Sensation_4G	HTC	Sensation 4G	Smartphone
 SGH-I257M	Samsung	Galaxy S4 Mini	Smartphone
@@ -994,6 +1116,7 @@ SGH-T859	Samsung	Galaxy Tab	Tablet
 SGH-T879	Samsung	Galaxy Note	Smartphone
 SGH-T889	Samsung	Galaxy Note 2	Smartphone
 SGH-T959	Samsung	Vibrant	Smartphone
+SGH-T959D	Samsung	Vibrant	Smartphone
 SGH-T959V	Samsung	Vibrant	Smartphone
 SGH-T989	Samsung	Galaxy S2	Smartphone
 SGH-T999	Samsung	Galaxy S3	Smartphone
@@ -1003,6 +1126,7 @@ SGH-T999V	Samsung	Galaxy S3	Smartphone
 SGP311	Sony	Xperia Z	Tablet
 SGP511	Sony	Xperia Z2	Tablet
 SGP561	Sony	Xperia Z2 LTE-A	Tablet
+SGP611  Sony  Xperia Z3 Tablet
 SGP612	Sony	Xperia Z3	Tablet
 SGP771	Sony	Xperia Z4	Tablet
 SGPT12	Sony	Xperia S	Tablet
@@ -1012,25 +1136,43 @@ Sky 4.0	Sky	4.0	Smartphone
 Sky 5.5Q	Sky	5.5Q	Smartphone
 Slate 21	HP	Slate 21	PC
 Slate 21 Pro	HP	Slate 21	PC
+SM-A300FU Samsung Galaxy A3 Smartphone
+SMART_3.5_BY_NUTCHA True  Smart3.5  Smartphone
 SM-G130E	Samsung	Galaxy Star 2	Smartphone
+SM-G313HZ Samsung Galaxy V  Smartphone
+SM-G355HN Samsung Galaxy Core 2 Smartphone
 SM-G355M	Samsung	Galaxy Core 2 Duos	Smartphone
 SM-G360P	Samsung	Galaxy Core Prime LTE	Smartphone
 SM-G3815	Samsung	Galaxy Express	Smartphone
 SM-G386T	Samsung	Galaxy Avant	Smartphone
 SM-G386T1	Samsung	Galaxy Avant	Smartphone
+SM-G389F  Samsung Galaxy XCover Smartphone
+SM-G530FZ	Samsung	Galaxy Grand Prime	Smartphone
 SM-G530H	Samsung	Galaxy Avant	Smartphone
 SM-G730V	Samsung	Galaxy S3 Mini	Smartphone
+SM-G800F	Samsung	Galaxy S5	Smartphone
 SM-G800H	Samsung	Galaxy S5 Mini Duos	Smartphone
+SM-G870F	Samsung	Galaxy S5 Active	Smartphone
 SM-G860P	Samsung	Galaxy S5 Sport	Smartphone
 SM-G900A	Samsung	Galaxy S5	Smartphone
 SM-G900F	Samsung	Galaxy S5	Smartphone
+SM-G901F	Samsung	Galaxy S5 Plus	Smartphone
+SM-G903F	Samsung	Galaxy S5 Neo	Smartphone
+SM-G906L	Samsung	Galaxy S5 LTE-A	Smartphone
 SM-G900H	Samsung	Galaxy S5	Smartphone
 SM-G900P	Samsung	Galaxy S5	Smartphone
 SM-G900T	Samsung	Galaxy S5	Smartphone
 SM-G900T1	Samsung	Galaxy S5	Smartphone
 SM-G900V	Samsung	Galaxy S5	Smartphone
+SM-G920A	Samsung	Galaxy S6	Smartphone
 SM-G920V	Samsung	Galaxy S6	Smartphone
+SM-G925A	Samsung	Galaxy S6 Edge	Smartphone
+SM-G925F	Samsung	Galaxy S6 Edge	Smartphone
 SM-G928X	Samsung	Galaxy S6 Edge Plus	Smartphone
+SM-G930F	Samsung	Galaxy S7	Smartphone
+SM-J320F  Samsung Galaxy J3 Smartphone
+SM-J500H  Samsung Galaxy J4 Smartphone
+SM-J700H  Samsung Galaxy J7 Smartphone
 SM-N7505	Samsung	Galaxy Note 3 Neo	Smartphone
 SM-N900	Samsung	Galaxy Note 3	Smartphone
 SM-N9005	Samsung	Galaxy Note 3	Smartphone
@@ -1039,6 +1181,7 @@ SM-N900P	Samsung	Galaxy Note 3	Smartphone
 SM-N900T	Samsung	Galaxy Note 3	Smartphone
 SM-N900V	Samsung	Galaxy Note 3	Smartphone
 SM-N900W8	Samsung	Galaxy Note 3	Smartphone
+SM-N910H  Samsung Galaxy Note 4 Smartphone
 SM-N9100	Samsung	Galaxy Note 4 Duos	Smartphone
 SM-N910G	Samsung	Galaxy Note 4	Smartphone
 SM-N910P	Samsung	Galaxy Note 4	Smartphone
@@ -1075,6 +1218,7 @@ SM-T520	Samsung	Galaxy Tab Pro	Tablet
 SM-T530NU	Samsung	Galaxy Tab 4	Tablet
 SM-T537V	Samsung	Galaxy Tab 4	Tablet
 SM-T550	Samsung	Galaxy Tab A	Tablet
+SM-T670	Samsung	Galaxy View	Tablet
 SM-T700	Samsung	Galaxy Tab S	Tablet
 SM-T707V	Samsung	Galaxy Tab S	Tablet
 SM-T800	Samsung	Galaxy Tab S	Tablet
@@ -1086,12 +1230,14 @@ SNB02-NV7A	Fuhu	Nabi 2S	Tablet
 SNBJR-MT5C	Fuhu	Nabi Junior	Tablet
 SoftwinerEvb	SoftwinerEvb	Unknown	Tablet
 Sony Tablet S	Sony	Xperia S	Tablet
+SonyEricssonC6603 Sony  Xperia Z  Smartphone
 SonyEricssonLT18a	Sony	Xperia Arc S	Smartphone
 SonyEricssonLT18i	Sony	Xperia Arc S	Smartphone
 SonyEricssonLT18i-o	Sony	Xperia Arc S	Smartphone
 SonyEricssonLT28at	Sony	Xperia Ion LTE	Smartphone
 SonyEricssonR800x	Sony	Xperia Play	Smartphone
 SonyEricssonST25a	Sony	Xperia U	Smartphone
+SonyEricssonX10i  Sony  Xperia X10  Smartphone
 SonyLT26ii	Sony	Xperia SL	Smartphone
 SonyLT30at	Sony	Xperia TL	Smartphone
 SonyST21a	Sony	Xperia Tipo	Smartphone
@@ -1128,6 +1274,7 @@ SproutChannelCubby	Sprout Channel	Cubby	Tablet
 ST26a	Sony	Xperia	Smartphone
 ST26i	Sony	Xperia	Smartphone
 STJR75	Smarttab	Junior	Tablet
+STP-71  Daewoo  STP71 Tablet
 Studio 5.0 S II	Blu	Studio	Smartphone
 STUDIO 5.0e  	Blu	Studio	Smartphone
 STUDIO 5.0K	Blu	Studio	Smartphone
@@ -1142,11 +1289,14 @@ T752	Audiovox	T752	Tablet
 T7X	Unknown	Unknown	Unknown
 TAB-9160K	Maxwest	9160K	Tablet
 TABEO 8	Tabeo	Kids	Tablet
+Tab Link 3G Ergo  Tab Link  Tablet
+TB1010  Acme  TB1010  Tablet
 TBQG774	Unknown	Unknown	Unknown
 TC70	Motorola	Symbol	Smartphone
 TECNO P9	Techno	Phantom	Tablet
 TegraNote-P1640	Nvidia	Tegra Note	Tablet
 ThinkPad Tablet	Lenovo	ThinkPad	Tablet
+thl T6C THL T6C Smartphone
 TM1088	NuVision	TM1088	Tablet
 TM1088C	NuVision	TM1088	Tablet
 TM1318	NuVision	TM1318	Tablet
@@ -1157,6 +1307,7 @@ TM9S775	Tmax	TM-9S775	Tablet
 T-Mobile G2	LG	G2	Smartphone
 T-Mobile myTouch	Unknown	myTouch	Smartphone
 T-Mobile myTouch Q	Unknown	myTouch	Smartphone
+tolino tab 8  Tolino  Tab8  Tablet
 Torque	Unknown	Unknown	Unknown
 TouchPad	HP	TouchPad	Tablet
 TR720F	Unknown	Unknown	Unknown
@@ -1197,6 +1348,7 @@ VK700	LG	G Pad	Tablet
 VK810	LG	G Pad	Tablet
 VK810 4G	LG	G Pad	Tablet
 VM670	LG	Optimus	Smartphone
+Vodafone Smart Tab 4  Vodafone  Smart Tab 5 Tablet
 Vortex	Unknown	Unknown	Unknown
 Vox	Vox	Unknown	Mobile
 VS415PP	LG	Optimus	Smartphone
@@ -1220,35 +1372,75 @@ X10	Unknown	Unknown	Unknown
 X500A	Posh	Orion Pro	Smartphone
 X501_USA_Cricket	ZTE	Groove	Smartphone
 X7	Unknown	Unknown	Unknown
+X5001 Medion  Life X5001  Smartphone
 X9006	Oppo	Find	Smartphone
 Xbox One	Xbox	Xbox One	Game Console
 XO Learning tablet	Vivitar	XO	Tablet
 Xoom	Motorola	Xoom	Tablet
+Xoom 2	Motorola	Xoom	Tablet
+Xoom Wifi Motorola  Xoom  Tablet
 XoviBot	Xovi GmbH	XoviBot	Bot
-XT1019	Motorola	Moto	Smartphone
-XT1021	Motorola	Moto	Smartphone
-XT1023	Motorola	Moto	Smartphone
-XT1028	Motorola	Moto	Smartphone
+XT1019	Motorola	Moto E	Smartphone
+XT1021	Motorola	Moto E	Smartphone
+XT1022	Motorola	Moto E	Smartphone
+XT1023	Motorola	Moto E	Smartphone
+XT1028	Motorola	Moto G	Smartphone
 XT1030	Motorola	Droid Mini	Smartphone
-XT1031	Motorola	Moto	Smartphone
-XT1032	Motorola	Moto	Smartphone
-XT1034	Motorola	Moto	Smartphone
-XT1045	Motorola	Moto	Smartphone
-XT1049	Motorola	Moto	Smartphone
-XT1053	Motorola	Moto	Smartphone
-XT1056	Motorola	Moto	Smartphone
-XT1058	Motorola	Moto	Smartphone
-XT1060	Motorola	Moto	Smartphone
-XT1063	Motorola	Moto	Smartphone
-XT1064	Motorola	Moto	Smartphone
-XT1068	Motorola	Moto	Smartphone
+XT1031	Motorola	Moto G	Smartphone
+XT1032	Motorola	Moto G	Smartphone
+XT1033	Motorola	Moto G	Smartphone
+XT1034	Motorola	Moto G	Smartphone
+XT1039	Motorola	Moto G	Smartphone
+XT1040	Motorola	Moto G	Smartphone
+XT1042	Motorola	Moto G	Smartphone
+XT1045	Motorola	Moto G	Smartphone
+XT1049	Motorola	Moto X	Smartphone
+XT1050	Motorola	Moto X	Smartphone
+XT1052	Motorola	Moto X	Smartphone
+XT1053	Motorola	Moto X	Smartphone
+XT1055	Motorola	Moto X	Smartphone
+XT1056	Motorola	Moto X	Smartphone
+XT1058	Motorola	Moto X	Smartphone
+XT1060	Motorola	Moto X	Smartphone
+XT1063	Motorola	Moto G	Smartphone
+XT1064	Motorola	Moto G	Smartphone
+XT1068	Motorola	Moto G	Smartphone
+XT1069	Motorola	Moto G	Smartphone
+XT1072	Motorola	Moto G	Smartphone
+XT1077	Motorola	Moto G	Smartphone
+XT1078	Motorola	Moto G	Smartphone
+XT1079	Motorola	Moto G	Smartphone
 XT1080	Motorola	Droid Ultra	Smartphone
-XT1094	Motorola	Moto	Smartphone
-XT1095	Motorola	Moto	Smartphone
-XT1096	Motorola	Moto	Smartphone
-XT1097	Motorola	Moto	Smartphone
+XT1085	Motorola	Moto X	Smartphone
+XT1092	Motorola	Moto X	Smartphone
+XT1093	Motorola	Moto X	Smartphone
+XT1094	Motorola	Moto X	Smartphone
+XT1095	Motorola	Moto X	Smartphone
+XT1096	Motorola	Moto X	Smartphone
+XT1097	Motorola	Moto X	Smartphone
 XT1254	Motorola	Droid Turbo	Smartphone
+XT1505	Motorola	Moto E	Smartphone
+XT1506	Motorola	Moto E	Smartphone
+XT1511	Motorola	Moto E	Smartphone
+XT1514	Motorola	Moto E	Smartphone
+XT1521	Motorola	Moto E	Smartphone
+XT1523	Motorola	Moto E	Smartphone
+XT1524	Motorola	Moto E	Smartphone
 XT1526	Motorola	Moto E2	Smartphone
+XT1527	Motorola	Moto E	Smartphone
+XT1528	Motorola	Moto E	Smartphone
+XT1540	Motorola	Moto G	Smartphone
+XT1541	Motorola	Moto G	Smartphone
+XT1542	Motorola	Moto G	Smartphone
+XT1543	Motorola	Moto G	Smartphone
+XT1544	Motorola	Moto G	Smartphone
+XT1548	Motorola	Moto G	Smartphone
+XT1550	Motorola	Moto G	Smartphone
+XT1556	Motorola	Moto G	Smartphone
+XT1557	Motorola	Moto G	Smartphone
+XT1570	Motorola	Moto X Style	Smartphone
+XT1572	Motorola	Moto X Style	Smartphone
+XT1575	Motorola	Moto X Style	Smartphone
 XT555C	Motorola	Defy	Smartphone
 XT556	Motorola	Defy	Smartphone
 XT557	Motorola	Defy	Smartphone
@@ -1256,16 +1448,22 @@ XT830C	Motorola	Moto	Smartphone
 XT897	Motorola	Photon	Smartphone
 XT897S	Motorola	Photon	Smartphone
 XT907	Motorola	RAZR	Smartphone
+XT910	Motorola	RAZR	Smartphone
 XT914	Motorola	RAZR	Smartphone
 XT925	Motorola	RAZR	Smartphone
+XT926	Motorola	RAZR HD	Smartphone
 XT939G	Motorola	Moto	Smartphone
 X-treme Play Tab	Mach Speed	Xtreme Play Tab	Tablet
 Yahoo!	Yahoo	Yahoo! bot	Bot
 Y88	Dragon	Touch	Tablet
+YD201 Yota  YD201 Smartphone
+YOGA Tablet 2-1050L	Lenovo	Yoga	Tablet
+YOGA Tablet 2-830F	Lenovo	Yoga	Tablet
 YOGA Tablet 2 Pro-1380F	Lenovo	Yoga	Tablet
 YP-G70	Samsung	Galaxy Player	Smartphone
 YP-GI1	Samsung	Galaxy Player	Smartphone
 yuntab701	YunTab	701	Tablet
+Z130  Unknown Z130  Mobile
 Z660G	ZTE	Whirl	Smartphone
 Z665C	ZTE	Valet	Smartphone
 Z667G	ZTE	Whirl	Smartphone
@@ -1286,7 +1484,10 @@ Z995	ZTE	Overture	Smartphone
 Z796C	ZTE	Majesty	Smartphone
 Z998	ZTE	Unico LTE	Smartphone
 Zeepad 7DRK	Zeepad	7DRK	Tablet
+ZP952 Zopo  Speed 7 Plus  Smartphone
+ZTE Blade L5 Plus ZTE Blade L5 Plus Smartphone
 ZTE N9120	ZTE	Avid 4G	Smartphone
+ZTE-U V889F ZTE Blade 3 Pro Smartphone
 ZTE V768	ZTE	Concord	Smartphone
 ZTE-X500	ZTE	Score	Smartphone
 ZTE-Z667G	ZTE	Whirl	Smartphone
@@ -1298,6 +1499,7 @@ ZTE-Z990G	ZTE	Merit	Smartphone
 ZTE-Z992	ZTE	Avail 2	Smartphone
 ZTE-Z995	ZTE	Overture	Smartphone
 ZTE-Z998	ZTE	Unico LTE	Smartphone
+ZUK Z1  Lenovo  ZUK Z1  Smartphone
 ZX-103168	Chromo	ZX	Tablet
 ZX-2926D	Chromo	Noria	Tablet
 ZX-RK2926	Chromo	ZX-RK2926	Tablet
